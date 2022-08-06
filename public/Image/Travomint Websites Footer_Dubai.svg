@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1920px" height="288px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1920 288"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#FEFEFE;stroke-width:0.9;stroke-opacity:0.290196}
+    .str1 {stroke:#FEFEFE;stroke-width:0.9;stroke-opacity:0.368627}
+    .str4 {stroke:#FEFEFE;stroke-width:1.99961}
+    .str3 {stroke:white;stroke-width:1.99961}
+    .str0 {stroke:#FEFEFE;stroke-width:0.9}
+    .str5 {stroke:#FEFEFE;stroke-width:0.9}
+    .fil6 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil3 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:none;fill-rule:nonzero}
+    .fil14 {fill:#FEFEFE}
+    .fil12 {fill:#E93819}
+    .fil9 {fill:#FD5105}
+    .fil10 {fill:#FF6600}
+    .fil13 {fill:#FF6600}
+    .fil8 {fill:white}
+    .fil5 {fill:#FEFEFE;fill-rule:nonzero}
+    .fil11 {fill:#E93819;fill-rule:nonzero}
+    .fil7 {fill:#FD5105;fill-rule:nonzero}
+    .fil1 {fill:#FF6600;fill-rule:nonzero}
+    .fil4 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2070296835744">
+   <g>
+    <polygon class="fil0 str0" points="1003,144 920,144 920,286 1003,286 "/>
+    <polygon class="fil0 str0" points="1003,247 920,247 920,286 1003,286 "/>
+    <path class="fil0 str0" d="M976 229c-9,-3 -14,-9 -15,-13 -1,0 -1,-1 -1,-1 0,0 0,1 -1,1 -2,4 -6,10 -16,13 -15,4 -9,18 -9,18l25 0 2 0 25 0c0,0 6,-14 -10,-18z"/>
+    <polygon class="fil0 str0" points="1017,132 1059,132 1059,286 1017,286 "/>
+    <path class="fil1 str0" d="M983 114c-14,-4 -20,-11 -22,-17 -1,-1 -1,-1 -1,-2 0,1 -1,1 -1,2 -3,6 -8,13 -22,17 -22,7 -13,26 -13,26l35 0 2 0 35 0c0,0 8,-19 -13,-26z"/>
+    <polygon class="fil0 str0" points="1027,146 1037,140 1047,146 1047,272 1027,272 "/>
+    <path class="fil0 str0" d="M1052 107c-8,-3 -12,-8 -13,-12 -1,0 -1,-1 -1,-1 0,0 0,1 -1,1 -1,4 -5,9 -13,12 -14,4 -9,17 -9,17l22 0 2 0 22 0c0,0 5,-13 -9,-17z"/>
+    <polygon class="fil0 str0" points="1012,132 1064,132 1064,124 1012,124 "/>
+    <path class="fil0 str0" d="M902 140l0 146 25 0 0 -67c0,-11 15,-16 15,-16 -12,-6 -17,-21 0,-34 16,-13 18,-21 18,-22l0 0c0,0 0,0 0,0l0 0c0,1 2,9 18,22 16,13 12,28 0,34 0,0 15,5 15,16l0 67 25 0 0 -146 -116 0z"/>
+    <path class="fil0 str0" d="M902 140l0 146 25 0 0 -67c0,-11 15,-16 15,-16 -12,-6 -17,-21 0,-34 16,-13 18,-21 18,-22l0 0c0,0 0,0 0,0l0 0c0,1 2,9 18,22 16,13 12,28 0,34 0,0 15,5 15,16l0 67 25 0 0 -146 -116 0z"/>
+    <polygon class="fil0 str0" points="910,140 902,140 902,286 910,286 "/>
+    <polygon class="fil0 str0" points="1017,140 1010,140 1010,286 1017,286 "/>
+    <path class="fil1 str0" d="M1125 142c7,-2 10,-7 11,-9 0,-1 0,-1 0,-2 0,1 1,1 1,2 1,2 4,7 11,9 11,3 7,14 7,14l-18 0 -1 0 -18 0c0,0 -4,-11 7,-14z"/>
+    <polygon class="fil0 str0" points="1152,162 1119,162 1119,286 1152,286 "/>
+    <polygon class="fil0 str0" points="1143,173 1136,168 1128,173 1128,275 1143,275 "/>
+    <polygon class="fil0 str0" points="1157,162 1114,162 1114,156 1157,156 "/>
+    <path class="fil0 str0" d="M1204 151c7,-2 10,-6 11,-9 0,0 0,0 0,-1 0,1 0,1 1,1 1,3 4,7 10,9 10,3 6,13 6,13l-16 0 -1 0 -17 0c0,0 -4,-10 6,-13z"/>
+    <polygon class="fil0 str0" points="1230,170 1199,170 1199,286 1230,286 "/>
+    <polygon class="fil1 str0" points="1222,180 1214,176 1207,180 1207,276 1222,276 "/>
+    <polygon class="fil0 str0" points="1234,170 1195,170 1195,164 1234,164 "/>
+    <polygon class="fil0 str0" points="1059,286 1059,168 1119,168 1119,286 "/>
+    <polygon class="fil0 str0" points="1152,286 1152,199 1199,199 1199,286 "/>
+    <g>
+     <polygon class="fil0 str0" points="942,257 935,257 935,275 942,275 "/>
+     <polygon class="fil1 str0" points="957,257 949,257 949,275 957,275 "/>
+     <polygon class="fil1 str0" points="971,257 963,257 963,275 971,275 "/>
+     <polygon class="fil0 str0" points="985,257 977,257 977,275 985,275 "/>
+    </g>
+    <g>
+     <polygon class="fil0 str0" points="1072,177 1065,177 1065,273 1072,273 "/>
+     <polygon class="fil1 str0" points="1085,177 1078,177 1078,273 1085,273 "/>
+     <polygon class="fil1 str0" points="1098,177 1091,177 1091,273 1098,273 "/>
+     <polygon class="fil0 str0" points="1111,177 1104,177 1104,273 1111,273 "/>
+    </g>
+    <g>
+     <polygon class="fil0 str0" points="1165,206 1158,206 1158,274 1165,274 "/>
+     <polygon class="fil1 str0" points="1178,206 1171,206 1171,274 1178,274 "/>
+     <polygon class="fil0 str0" points="1191,206 1184,206 1184,274 1191,274 "/>
+    </g>
+    <polygon class="fil0 str0" points="903,132 861,132 861,286 903,286 "/>
+    <polygon class="fil0 str0" points="893,146 883,140 873,146 873,272 893,272 "/>
+    <path class="fil0 str0" d="M868 107c8,-3 12,-8 13,-12 1,0 1,-1 1,-1 0,0 0,1 1,1 1,4 5,9 13,12 14,4 9,17 9,17l-22 0 -2 0 -22 0c0,0 -5,-13 9,-17z"/>
+    <polygon class="fil0 str0" points="908,132 856,132 856,124 908,124 "/>
+    <path class="fil1 str0" d="M795 142c-7,-2 -10,-7 -11,-9 0,-1 0,-1 0,-2 0,1 -1,1 -1,2 -1,2 -4,7 -11,9 -11,3 -7,14 -7,14l18 0 1 0 18 0c0,0 4,-11 -7,-14z"/>
+    <polygon class="fil0 str0" points="768,162 801,162 801,286 768,286 "/>
+    <polygon class="fil0 str0" points="777,173 784,168 792,173 792,275 777,275 "/>
+    <polygon class="fil0 str0" points="763,162 806,162 806,156 763,156 "/>
+    <path class="fil0 str0" d="M716 151c-7,-2 -10,-6 -11,-9 0,0 0,0 0,-1 0,1 0,1 -1,1 -1,3 -4,7 -10,9 -10,3 -6,13 -6,13l16 0 1 0 17 0c0,0 4,-10 -6,-13z"/>
+    <polygon class="fil0 str0" points="690,170 721,170 721,286 690,286 "/>
+    <polygon class="fil1 str0" points="698,180 706,176 713,180 713,276 698,276 "/>
+    <polygon class="fil0 str0" points="686,170 725,170 725,164 686,164 "/>
+    <polygon class="fil0 str0" points="861,286 861,168 801,168 801,286 "/>
+    <polygon class="fil0 str0" points="768,286 768,199 721,199 721,286 "/>
+    <g>
+     <polygon class="fil0 str0" points="848,177 855,177 855,273 848,273 "/>
+     <polygon class="fil1 str0" points="835,177 842,177 842,273 835,273 "/>
+     <polygon class="fil1 str0" points="822,177 829,177 829,273 822,273 "/>
+     <polygon class="fil0 str0" points="809,177 816,177 816,273 809,273 "/>
+    </g>
+    <g>
+     <polygon class="fil0 str0" points="755,206 762,206 762,274 755,274 "/>
+     <polygon class="fil1 str0" points="742,206 749,206 749,274 742,274 "/>
+     <polygon class="fil0 str0" points="729,206 736,206 736,274 729,274 "/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="188,83 105,83 105,286 188,286 "/>
+    <g>
+     <g>
+      <polygon class="fil0 str0" points="180,95 160,95 160,99 180,99 "/>
+      <polygon class="fil1 str0" points="181,114 160,114 160,119 181,119 "/>
+      <polygon class="fil0 str0" points="181,133 160,134 160,138 181,138 "/>
+      <polygon class="fil1 str0" points="181,153 160,153 160,158 181,158 "/>
+      <polygon class="fil0 str0" points="181,172 160,172 160,177 181,177 "/>
+      <polygon class="fil1 str0" points="181,192 160,192 160,197 181,197 "/>
+      <polygon class="fil0 str0" points="181,211 160,211 160,216 181,216 "/>
+      <polygon class="fil1 str0" points="181,231 160,231 160,235 181,235 "/>
+      <polygon class="fil0 str0" points="181,250 160,250 160,255 181,255 "/>
+      <polygon class="fil1 str0" points="181,269 160,269 160,274 181,274 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="133,95 112,95 112,100 133,99 "/>
+      <polygon class="fil0 str0" points="133,114 112,114 112,119 133,119 "/>
+      <polygon class="fil1 str0" points="133,134 112,134 112,138 133,138 "/>
+      <polygon class="fil0 str0" points="133,153 112,153 112,158 133,158 "/>
+      <polygon class="fil1 str0" points="133,172 112,172 112,177 133,177 "/>
+      <polygon class="fil0 str0" points="133,192 112,192 112,197 133,197 "/>
+      <polygon class="fil1 str0" points="133,211 112,211 112,216 133,216 "/>
+      <polygon class="fil0 str0" points="133,231 112,231 112,235 133,235 "/>
+      <polygon class="fil1 str0" points="133,250 112,250 112,255 133,255 "/>
+      <polygon class="fil0 str0" points="133,270 112,270 112,274 133,274 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="150,95 142,95 142,99 150,99 "/>
+      <polygon class="fil1 str0" points="150,114 142,114 143,119 150,119 "/>
+      <polygon class="fil1 str0" points="150,134 143,134 143,138 150,138 "/>
+      <polygon class="fil1 str0" points="150,153 143,153 143,158 150,158 "/>
+      <polygon class="fil1 str0" points="150,172 143,172 143,177 150,177 "/>
+      <polygon class="fil1 str0" points="150,192 143,192 143,197 150,197 "/>
+      <polygon class="fil1 str0" points="150,211 143,211 143,216 150,216 "/>
+      <polygon class="fil1 str0" points="150,231 143,231 143,235 150,235 "/>
+      <polygon class="fil1 str0" points="151,250 143,250 143,255 151,255 "/>
+      <polygon class="fil1 str0" points="151,269 143,270 143,274 151,274 "/>
+     </g>
+    </g>
+   </g>
+   <g>
+    <path class="fil0 str0" d="M289 270c8,-25 10,-50 8,-75 -2,-23 -8,-46 -19,-68 -17,-36 -41,-57 -42,-58l-13 -12 0 213 66 0z"/>
+    <polygon class="fil0 str0" points="223,270 223,35 208,47 208,270 "/>
+    <path class="fil0 str0" d="M279 270c7,-24 10,-48 8,-72 -2,-22 -8,-45 -18,-65 -18,-36 -40,-56 -41,-57l-13 -11 0 205 64 0z"/>
+    <path class="fil0 str0" d="M271 270c35,-115 -48,-188 -48,-188l0 188 48 0z"/>
+    <path class="fil2 str1" d="M223 82l0 16c22,28 59,89 33,172l15 0c35,-115 -48,-188 -48,-188z"/>
+    <path class="fil0 str0" d="M254 121c-15,-25 -31,-39 -31,-39l0 39 31 0z"/>
+    <polygon class="fil0 str0" points="300,270 198,270 193,286 304,286 "/>
+    <g>
+     <path class="fil1 str0" d="M250 116l-27 0 0 8 32 0c-1,-3 -3,-6 -5,-8z"/>
+     <path class="fil1 str0" d="M261 134l-38 0 0 9 42 0c-1,-3 -3,-6 -4,-9z"/>
+     <path class="fil1 str0" d="M269 153l-46 0 0 9 49 0c-1,-3 -2,-6 -3,-9z"/>
+     <path class="fil1 str0" d="M275 172l-52 0 0 8 53 0c0,-2 -1,-5 -1,-8z"/>
+     <path class="fil1 str0" d="M278 191l-55 0 0 8 56 0c0,-3 0,-5 -1,-8z"/>
+     <path class="fil1 str0" d="M280 210l-57 0 0 8 57 0c0,-3 0,-5 0,-8z"/>
+     <path class="fil1 str0" d="M279 229l-56 0 0 8 55 0c1,-3 1,-6 1,-8z"/>
+     <path class="fil1 str0" d="M276 247l-53 0 0 9 52 0c0,-3 1,-6 1,-9z"/>
+    </g>
+    <g>
+     <path class="fil1 str0" d="M270 116l-9 0c2,2 4,5 5,8l9 0 -5 -8z"/>
+     <path class="fil1 str0" d="M283 143l-8 0c-1,-3 -2,-6 -3,-9l8 0c1,3 2,6 3,9z"/>
+     <path class="fil1 str0" d="M289 162l-7 0c-1,-3 -2,-6 -3,-9l8 0c1,3 1,6 2,9z"/>
+     <path class="fil1 str0" d="M292 172l-7 0c0,3 1,6 1,8l7 0 -1 -8z"/>
+     <path class="fil1 str0" d="M296 199l-7 0c0,0 0,-1 0,-1 0,-2 -1,-5 -1,-7l7 0c0,1 0,3 0,5 0,1 0,2 1,3z"/>
+     <path class="fil1 str0" d="M296 218l-7 0c0,-3 0,-5 0,-8l7 0c0,3 0,5 0,8z"/>
+     <path class="fil1 str0" d="M295 229l-1 8 -6 0c0,-3 1,-6 1,-8l6 0z"/>
+     <path class="fil1 str0" d="M293 247c-1,3 -1,6 -2,9l-6 0c0,-3 1,-6 1,-9l7 0z"/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="405,65 322,102 322,286 405,286 "/>
+    <g>
+     <polygon class="fil1 str0" points="394,112 339,112 339,117 394,117 "/>
+     <polygon class="fil0 str0" points="394,129 339,129 339,134 394,134 "/>
+     <polygon class="fil1 str0" points="394,147 339,147 339,152 394,152 "/>
+     <polygon class="fil0 str0" points="394,164 339,164 339,169 394,169 "/>
+     <polygon class="fil1 str0" points="394,181 339,181 339,186 394,186 "/>
+     <polygon class="fil0 str0" points="394,199 339,199 339,204 394,204 "/>
+     <polygon class="fil1 str0" points="394,216 339,216 339,221 394,221 "/>
+     <polygon class="fil0 str0" points="394,233 339,233 339,238 394,238 "/>
+     <polygon class="fil1 str0" points="394,251 339,251 339,256 394,256 "/>
+     <polygon class="fil0 str0" points="394,268 339,268 339,273 394,273 "/>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="497,133 416,133 416,287 497,287 "/>
+    <polygon class="fil0 str0" points="489,133 424,133 424,97 489,97 "/>
+    <polygon class="fil3 str2" points="489,133 424,133 424,130 489,130 "/>
+    <polygon class="fil0 str0" points="482,76 482,97 432,97 432,76 "/>
+    <g>
+     <g>
+      <polygon class="fil0 str0" points="435,147 427,147 427,140 435,140 "/>
+      <polygon class="fil1 str0" points="452,147 444,147 444,140 452,140 "/>
+      <polygon class="fil1 str0" points="469,147 462,147 462,140 469,140 "/>
+      <polygon class="fil0 str0" points="487,147 479,147 479,140 487,140 "/>
+     </g>
+     <g>
+      <polygon class="fil0 str0" points="435,164 427,164 427,156 435,156 "/>
+      <polygon class="fil1 str0" points="452,164 444,164 444,156 452,156 "/>
+      <polygon class="fil1 str0" points="469,164 462,164 462,156 469,156 "/>
+      <polygon class="fil0 str0" points="487,164 479,164 479,156 487,156 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="435,180 427,180 427,172 435,172 "/>
+      <polygon class="fil0 str0" points="452,180 444,180 444,172 452,172 "/>
+      <polygon class="fil0 str0" points="469,180 462,180 462,172 469,172 "/>
+      <polygon class="fil1 str0" points="487,180 479,180 479,172 487,172 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="435,196 427,196 427,189 435,189 "/>
+      <polygon class="fil0 str0" points="452,196 444,196 444,189 452,189 "/>
+      <polygon class="fil0 str0" points="469,196 462,196 462,189 469,189 "/>
+      <polygon class="fil1 str0" points="487,196 479,196 479,189 487,189 "/>
+     </g>
+     <g>
+      <polygon class="fil0 str0" points="435,212 427,212 427,205 435,205 "/>
+      <polygon class="fil1 str0" points="452,212 444,212 444,205 452,205 "/>
+      <polygon class="fil1 str0" points="469,212 462,212 462,205 469,205 "/>
+      <polygon class="fil0 str0" points="487,212 479,212 479,205 487,205 "/>
+     </g>
+     <g>
+      <polygon class="fil0 str0" points="435,229 427,229 427,221 435,221 "/>
+      <polygon class="fil1 str0" points="452,229 444,229 444,221 452,221 "/>
+      <polygon class="fil1 str0" points="469,229 462,229 462,221 469,221 "/>
+      <polygon class="fil0 str0" points="487,229 479,229 479,221 487,221 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="435,245 427,245 427,237 435,237 "/>
+      <polygon class="fil0 str0" points="452,245 444,245 444,237 452,237 "/>
+      <polygon class="fil0 str0" points="469,245 462,245 462,237 469,237 "/>
+      <polygon class="fil1 str0" points="487,245 479,245 479,237 487,237 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="435,261 427,261 427,254 435,254 "/>
+      <polygon class="fil0 str0" points="452,261 444,261 444,254 452,254 "/>
+      <polygon class="fil0 str0" points="469,261 462,261 462,254 469,254 "/>
+      <polygon class="fil1 str0" points="487,261 479,261 479,254 487,254 "/>
+     </g>
+     <g>
+      <polygon class="fil0 str0" points="435,277 427,277 427,270 435,270 "/>
+      <polygon class="fil1 str0" points="452,277 444,277 444,270 452,270 "/>
+      <polygon class="fil1 str0" points="469,277 462,277 462,270 469,270 "/>
+      <polygon class="fil0 str0" points="487,277 479,277 479,270 487,270 "/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <polygon class="fil0 str0" points="443,110 435,110 435,102 443,102 "/>
+      <polygon class="fil1 str0" points="460,110 453,110 453,102 460,102 "/>
+      <polygon class="fil1 str0" points="478,110 470,110 470,102 478,102 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="452,91 444,91 444,83 452,83 "/>
+      <polygon class="fil1 str0" points="469,91 462,91 462,83 469,83 "/>
+     </g>
+     <g>
+      <polygon class="fil1 str0" points="443,126 435,126 435,118 443,118 "/>
+      <polygon class="fil1 str0" points="460,126 453,126 453,118 460,118 "/>
+      <polygon class="fil0 str0" points="478,126 470,126 470,118 478,118 "/>
+     </g>
+    </g>
+    <polygon class="fil3 str2" points="482,94 482,97 432,97 432,94 "/>
+   </g>
+   <g>
+    <g>
+     <polygon class="fil0 str0" points="1527,148 1527,175 1522,175 1522,286 1569,286 1569,142 1536,117 1522,107 1522,148 "/>
+     <polygon class="fil0 str0" points="1522,93 1522,148 1527,148 1527,175 1522,175 1522,246 1536,246 1536,103 1527,97 "/>
+     <polygon class="fil1 str0" points="1522,69 1522,148 1527,148 1527,73 "/>
+     <polygon class="fil1 str0" points="1522,175 1522,197 1527,197 1527,175 "/>
+     <g>
+      <polygon class="fil1 str0" points="1530,182 1556,182 1556,186 1530,186 "/>
+      <polygon class="fil0 str0" points="1530,190 1556,190 1556,194 1530,194 "/>
+      <polygon class="fil1 str0" points="1530,198 1556,198 1556,202 1530,202 "/>
+      <polygon class="fil0 str0" points="1530,206 1556,206 1556,210 1530,210 "/>
+      <polygon class="fil1 str0" points="1530,214 1556,214 1556,218 1530,218 "/>
+      <polygon class="fil0 str0" points="1530,223 1556,223 1556,227 1530,227 "/>
+      <polygon class="fil1 str0" points="1530,231 1556,231 1556,235 1530,235 "/>
+      <polygon class="fil0 str0" points="1530,239 1556,239 1556,243 1530,243 "/>
+      <polygon class="fil1 str0" points="1530,247 1556,247 1556,251 1530,251 "/>
+      <polygon class="fil0 str0" points="1530,255 1556,255 1556,259 1530,259 "/>
+      <polygon class="fil1 str0" points="1530,264 1556,264 1556,268 1530,268 "/>
+      <polygon class="fil0 str0" points="1530,272 1556,272 1556,276 1530,276 "/>
+     </g>
+     <polygon class="fil0 str0" points="1527,148 1527,175 1559,175 1559,148 "/>
+     <g>
+      <polygon class="fil0 str0" points="1553,149 1553,173 1556,173 1556,149 "/>
+      <polygon class="fil1 str0" points="1548,149 1548,173 1550,173 1550,149 "/>
+      <polygon class="fil1 str0" points="1542,149 1542,173 1545,173 1545,149 "/>
+      <polygon class="fil1 str0" points="1536,149 1536,173 1539,173 1539,149 "/>
+      <polygon class="fil0 str0" points="1531,149 1531,173 1533,173 1533,149 "/>
+     </g>
+    </g>
+    <g>
+     <polygon class="fil0 str0" points="1511,126 1511,154 1516,154 1516,286 1469,286 1469,121 1502,96 1516,86 1516,126 "/>
+     <polygon class="fil0 str0" points="1516,72 1516,126 1511,126 1511,154 1516,154 1516,225 1502,225 1502,82 1511,75 "/>
+     <polygon class="fil1 str0" points="1516,48 1516,126 1511,126 1511,52 "/>
+     <polygon class="fil1 str0" points="1516,154 1516,176 1511,176 1511,154 "/>
+     <polygon class="fil1 str0" points="1508,161 1482,161 1482,164 1508,164 "/>
+     <polygon class="fil0 str0" points="1508,169 1482,169 1482,173 1508,173 "/>
+     <polygon class="fil1 str0" points="1508,177 1482,177 1482,181 1508,181 "/>
+     <polygon class="fil0 str0" points="1508,185 1482,185 1482,189 1508,189 "/>
+     <polygon class="fil1 str0" points="1508,193 1482,193 1482,197 1508,197 "/>
+     <polygon class="fil0 str0" points="1508,202 1482,202 1482,205 1508,205 "/>
+     <polygon class="fil1 str0" points="1508,210 1482,210 1482,214 1508,214 "/>
+     <polygon class="fil0 str0" points="1508,218 1482,218 1482,222 1508,222 "/>
+     <polygon class="fil1 str0" points="1508,226 1482,226 1482,230 1508,230 "/>
+     <polygon class="fil0 str0" points="1508,234 1482,234 1482,238 1508,238 "/>
+     <polygon class="fil1 str0" points="1508,242 1482,242 1482,246 1508,246 "/>
+     <polygon class="fil0 str0" points="1508,251 1482,251 1482,255 1508,255 "/>
+     <g>
+      <polygon class="fil1 str0" points="1508,259 1482,259 1482,263 1508,263 "/>
+      <polygon class="fil0 str0" points="1508,267 1482,267 1482,271 1508,271 "/>
+     </g>
+     <polygon class="fil0 str0" points="1511,126 1511,154 1479,154 1479,126 "/>
+     <g>
+      <polygon class="fil0 str0" points="1485,128 1485,152 1482,152 1482,128 "/>
+      <polygon class="fil1 str0" points="1490,128 1490,152 1488,152 1488,128 "/>
+      <polygon class="fil1 str0" points="1496,128 1496,152 1493,152 1493,128 "/>
+      <polygon class="fil1 str0" points="1502,128 1502,152 1499,152 1499,128 "/>
+      <polygon class="fil0 str0" points="1508,128 1508,152 1505,152 1505,128 "/>
+     </g>
+    </g>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="1655,71 1583,71 1583,286 1655,286 "/>
+    <g>
+     <g>
+      <polygon class="fil1 str0" points="1644,83 1594,83 1594,88 1644,88 "/>
+      <polygon class="fil0 str0" points="1644,104 1594,104 1594,109 1644,109 "/>
+      <polygon class="fil1 str0" points="1644,125 1594,125 1594,130 1644,130 "/>
+      <polygon class="fil0 str0" points="1644,145 1594,145 1594,150 1644,150 "/>
+      <polygon class="fil1 str0" points="1644,166 1594,166 1594,171 1644,171 "/>
+      <polygon class="fil0 str0" points="1644,186 1594,186 1594,191 1644,191 "/>
+      <polygon class="fil1 str0" points="1644,207 1594,207 1594,212 1644,212 "/>
+      <polygon class="fil0 str0" points="1644,227 1594,227 1594,233 1644,233 "/>
+      <polygon class="fil1 str0" points="1644,248 1594,248 1594,253 1644,253 "/>
+      <polygon class="fil0 str0" points="1644,269 1594,269 1594,274 1644,274 "/>
+     </g>
+    </g>
+   </g>
+   <g>
+    <g>
+     <path class="fil1 str0" d="M1733 140c-4,0 -8,4 -8,8 0,4 4,8 8,8 4,0 8,-4 8,-8 0,-4 -4,-8 -8,-8z"/>
+     <path class="fil0 str0" d="M1733 79c-14,33 -26,117 -26,207l52 0c0,-90 -11,-174 -26,-207zm0 79l0 0c-6,0 -11,-4 -11,-10 0,-6 5,-10 11,-10 6,0 10,4 10,10 0,6 -4,10 -10,10z"/>
+    </g>
+    <polygon class="fil0 str0" points="1671,286 1751,286 1751,225 1671,225 "/>
+    <polygon class="fil1 str0" points="1671,227 1702,227 1702,204 1671,196 "/>
+    <polygon class="fil1 str0" points="1688,206 1690,206 1689,151 "/>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="1779,286 1855,286 1855,102 1779,133 "/>
+    <g>
+     <polygon class="fil0 str0" points="1781,141 1859,141 1859,134 1781,134 "/>
+     <polygon class="fil1 str0" points="1781,152 1859,152 1859,145 1781,145 "/>
+     <polygon class="fil1 str0" points="1781,163 1859,163 1859,157 1781,157 "/>
+     <polygon class="fil1 str0" points="1781,175 1859,175 1859,168 1781,168 "/>
+     <polygon class="fil1 str0" points="1781,186 1859,186 1859,179 1781,179 "/>
+     <polygon class="fil0 str0" points="1781,197 1859,197 1859,191 1781,191 "/>
+    </g>
+    <polygon class="fil1 str0" points="1837,113 1840,113 1838,51 "/>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="1333,286 1450,286 1450,210 1333,210 "/>
+    <polygon class="fil0 str0" points="1333,221 1385,221 1385,145 1333,145 "/>
+    <path class="fil1 str0" d="M1450 231l-49 0 0 -47c0,-26 15,-49 39,-60l10 -5 0 112z"/>
+    <g>
+     <polygon class="fil0 str0" points="1338,192 1388,192 1388,188 1338,188 "/>
+     <polygon class="fil1 str0" points="1338,199 1388,199 1388,195 1338,195 "/>
+     <polygon class="fil0 str0" points="1338,206 1388,206 1388,202 1338,202 "/>
+     <polygon class="fil1 str0" points="1338,170 1388,170 1388,166 1338,166 "/>
+     <polygon class="fil0 str0" points="1338,178 1388,178 1388,173 1338,173 "/>
+     <polygon class="fil1 str0" points="1338,185 1388,185 1388,181 1338,181 "/>
+     <polygon class="fil0 str0" points="1338,149 1388,149 1388,145 1338,145 "/>
+     <polygon class="fil1 str0" points="1338,156 1388,156 1388,152 1338,152 "/>
+     <polygon class="fil0 str0" points="1338,163 1388,163 1388,159 1338,159 "/>
+    </g>
+    <polygon class="fil1 str0" points="1369,148 1372,148 1370,80 "/>
+    <polygon class="fil1 str0" points="1360,148 1364,148 1362,80 "/>
+   </g>
+   <g>
+    <polygon class="fil0 str0" points="1306,173 1298,253 1307,144 1310,44 1276,40 1258,44 1262,128 1262,139 1274,50 1261,155 1258,286 1310,286 1306,186 "/>
+    <polygon class="fil1 str0" points="1275,47 1277,47 1276,28 "/>
+    <polygon class="fil1 str0" points="1290,53 1292,53 1291,35 "/>
+    <polygon class="fil1 str0" points="1306,50 1308,50 1307,31 "/>
+    <polygon class="fil1 str0" points="1259,48 1261,48 1260,29 "/>
+   </g>
+   <g>
+    <g>
+     <path class="fil1" d="M590 286c0,0 0,0 0,0 1,0 1,0 1,1 0,0 1,0 1,0 3,-2 8,-3 12,-2 1,1 3,1 4,1l0 1c0,0 1,0 1,0l0 0c0,0 0,0 0,0l1 0 0 0 0 0 0 0 0 0 0 -81 5 0 0 81 0 0 1 0 0 0 0 -81 7 0 0 81 1 0 0 -82 0 -4 0 -102 0 -3 0 -33 -5 -3 0 -8 1 0 4 -2 0 7 1 0 0 -8 5 2 1 1 0 5 -6 6 0 138 0 4 0 82 1 0 0 -81 4 0 0 76 0 5 1 0 0 -5 0 -77 5 -1 0 78 0 5 1 0 0 -5 0 -78 12 0 0 23 -8 0 0 55 0 5 1 0 0 -5c1,0 1,0 2,0 0,0 0,0 0,1 1,0 1,0 2,0 0,0 0,0 1,0 0,0 0,0 0,0 0,0 1,0 1,0 0,-1 1,0 2,0 0,0 1,0 1,0 1,1 2,0 3,0 2,-1 3,-1 3,-1 1,0 1,1 2,1 0,0 1,1 1,1 1,0 1,0 1,0 1,0 1,0 2,-1 0,0 0,0 1,0 1,0 3,0 4,0 2,1 4,2 5,4 0,-1 0,-1 0,0l1 0c0,-1 0,0 0,0 -1,-2 -3,-3 -5,-4l0 -8 -13 0 0 -11 0 -35 -2 0 0 -2 -4 0 0 -23 0 -6 -2 0 0 -19 -7 0 0 -27 2 0 0 -5 -1 0 0 -18 -4 -3 0 -23 0 -3 -1 -1 0 -20 -3 -1 0 -16 -2 -5 0 -6 -2 -1 0 -10c0,-2 -1,-3 -2,-4l0 -9c0,-1 0,-1 -2,-2l0 -5 -2 0 0 -19c0,0 0,-1 0,-1 -1,0 -1,1 -1,1l0 19 -2 0 0 12 -1 3 -1 0 0 16 -1 1 0 8 -4 4 0 35 -2 2 0 2 0 12 -3 0 0 31 -2 0 0 6 0 0 0 0 -1 0 0 12 -3 0 0 4 0 3 0 2 0 3 0 3 0 2 0 19 -2 0 0 5 0 9 -6 0 0 2 -2 0 0 69c0,1 0,1 0,1 -1,0 -1,0 -1,0 -1,0 -1,0 -1,-1 0,0 0,0 0,0 0,0 0,0 -1,0 0,0 -1,1 -1,1l1 0zm28 -226l0 0 0 0 0 0 0 0 0 0zm-14 225l0 0c-3,-1 -7,-1 -10,0l0 -68 2 0 8 0 0 68zm5 1l0 0c0,0 0,0 -1,0l0 0c-1,-1 -2,-1 -3,-1l0 -69 -9 0 0 -1 6 0 0 -9 7 0 0 80zm6 -81l0 0 -5 0 -8 0 0 -4 1 0 12 0 0 4zm0 -5l0 0 -11 0 0 -18 5 0 0 -1 -5 0 0 -2 5 0 0 -1 -5 0 0 -2 5 0 0 0 -5 0 0 -2 5 0 0 -1 -5 0 0 -2 5 0 0 -1 -5 0 0 -2 5 0 0 0 -5 0 0 -3 2 0 5 0 0 30 1 0 0 -31 -6 0 0 -11 2 0 0 -1 7 0 0 48zm1 -49l0 0 -8 0 0 -4 1 0 8 0 5 1 0 3 -6 0zm7 54l0 0 -7 0 0 -4 7 0 0 4zm0 -5l0 0 -7 0 0 -48 6 0 0 -5 -4 -1 -8 0 0 -30 2 0 8 0 0 20 1 0 0 -21 -8 0 0 -12 10 -3 0 100zm0 -101l0 0 -10 3 0 -1 1 -2 9 -2 0 2zm0 -36l0 0 0 33 -9 2 0 -34 4 -4 5 3zm-3 -12l0 0 0 0 0 0 0 0zm0 0l0 0 0 -16 0 0c1,0 3,0 4,0l0 14 0 0 -4 2zm10 -1l0 0 -5 -2 0 -14 -1 0c-1,0 -2,0 -3,0l1 -2 0 -11 4 0 0 4 0 9 0 0 0 -8c1,0 1,1 1,1l0 8c-1,0 -1,0 -1,0l-1 1c0,0 2,0 3,0 1,1 2,2 2,4l0 10zm17 129l0 0 0 20 -10 0 0 -20 4 0 6 0zm-10 -79l0 0 0 3 -8 -3 0 -2 7 2 1 0zm-3 -21l0 0 -1 0 3 1 0 19 -7 -2 0 -20 4 2 1 0zm-4 126l0 0 -4 0 0 -4 4 0 0 4zm0 -5l0 0 -4 0 0 -137 5 -5 2 4 0 16 -5 -2 0 21 0 4 0 45 1 0 0 -45 8 2 0 23 -7 0 0 18 1 0 0 -17 7 0 3 2 0 18 -15 0 0 5 4 0 0 48zm1 -49l0 0 -4 0 0 -3 14 0 1 0 0 3 -1 0 -10 0zm5 52l0 0 -5 2 0 -4 5 -2 0 4zm0 -24l0 0 0 20 -5 1 0 -48 9 0 0 27 -4 0zm1 24l0 0 0 -4 10 0 1 0 1 0 0 4 -12 0zm8 72l0 0 0 7c0,0 0,0 0,0 0,0 0,0 -1,0 -1,-1 -1,-1 -2,-1l0 -54 8 0 3 0 0 2 2 0 0 34 0 12 -10 0zm23 1l0 0 0 7c-2,-1 -3,-1 -5,0 0,0 0,0 0,0 -1,0 -2,0 -2,0 -1,0 -1,0 -2,-1 0,0 -1,0 -1,0 -2,-1 -3,0 -4,0 -1,0 -2,1 -3,1 0,0 -1,-1 -1,-1 -1,0 -2,0 -3,0 0,0 0,0 0,0 0,0 -1,1 -1,1 0,0 0,0 0,0l0 -7 10 0 12 0z"/>
+     <path id="1" class="fil0 str0" d="M590 286c0,0 0,0 0,0 1,0 1,0 1,1 0,0 1,0 1,0 3,-2 8,-3 12,-2 1,1 3,1 4,1l0 1c0,0 1,0 1,0l0 0c0,0 0,0 0,0l1 0 0 0 0 0 0 0 0 0 0 -81 5 0 0 81 0 0 1 0 0 0 0 -81 7 0 0 81 1 0 0 -82 0 -4 0 -102 0 -3 0 -33 -5 -3 0 -8 1 0 4 -2 0 7 1 0 0 -8 5 2 1 1 0 5 -6 6 0 138 0 4 0 82 1 0 0 -81 4 0 0 76 0 5 1 0 0 -5 0 -77 5 -1 0 78 0 5 1 0 0 -5 0 -78 12 0 0 23 -8 0 0 55 0 5 1 0 0 -5c1,0 1,0 2,0 0,0 0,0 0,1 1,0 1,0 2,0 0,0 0,0 1,0 0,0 0,0 0,0 0,0 1,0 1,0 0,-1 1,0 2,0 0,0 1,0 1,0 1,1 2,0 3,0 2,-1 3,-1 3,-1 1,0 1,1 2,1 0,0 1,1 1,1 1,0 1,0 1,0 1,0 1,0 2,-1 0,0 0,0 1,0 1,0 3,0 4,0 2,1 4,2 5,4 0,-1 0,-1 0,0l1 0c0,-1 0,0 0,0 -1,-2 -3,-3 -5,-4l0 -8 -13 0 0 -11 0 -35 -2 0 0 -2 -4 0 0 -23 0 -6 -2 0 0 -19 -7 0 0 -27 2 0 0 -5 -1 0 0 -18 -4 -3 0 -23 0 -3 -1 -1 0 -20 -3 -1 0 -16 -2 -5 0 -6 -2 -1 0 -10c0,-2 -1,-3 -2,-4l0 -9c0,-1 0,-1 -2,-2l0 -5 -2 0 0 -19c0,0 0,-1 0,-1 -1,0 -1,1 -1,1l0 19 -2 0 0 12 -1 3 -1 0 0 16 -1 1 0 8 -4 4 0 35 -2 2 0 2 0 12 -3 0 0 31 -2 0 0 6 0 0 0 0 -1 0 0 12 -3 0 0 4 0 3 0 2 0 3 0 3 0 2 0 19 -2 0 0 5 0 9 -6 0 0 2 -2 0 0 69c0,1 0,1 0,1 -1,0 -1,0 -1,0 -1,0 -1,0 -1,-1 0,0 0,0 0,0 0,0 0,0 -1,0 0,0 -1,1 -1,1m29 -226l0 0 0 0 0 0 0 0 0 0zm-14 225l0 0c-3,-1 -7,-1 -10,0l0 -68 2 0 8 0 0 68zm5 1l0 0c0,0 0,0 -1,0l0 0c-1,-1 -2,-1 -3,-1l0 -69 -9 0 0 -1 6 0 0 -9 7 0 0 80zm6 -81l0 0 -5 0 -8 0 0 -4 1 0 12 0 0 4zm0 -5l0 0 -11 0 0 -18 5 0 0 -1 -5 0 0 -2 5 0 0 -1 -5 0 0 -2 5 0 0 0 -5 0 0 -2 5 0 0 -1 -5 0 0 -2 5 0 0 -1 -5 0 0 -2 5 0 0 0 -5 0 0 -3 2 0 5 0 0 30 1 0 0 -31 -6 0 0 -11 2 0 0 -1 7 0 0 48zm1 -49l0 0 -8 0 0 -4 1 0 8 0 5 1 0 3 -6 0zm7 54l0 0 -7 0 0 -4 7 0 0 4zm0 -5l0 0 -7 0 0 -48 6 0 0 -5 -4 -1 -8 0 0 -30 2 0 8 0 0 20 1 0 0 -21 -8 0 0 -12 10 -3 0 100zm0 -101l0 0 -10 3 0 -1 1 -2 9 -2 0 2zm0 -36l0 0 0 33 -9 2 0 -34 4 -4 5 3zm-3 -12l0 0 0 0 0 0 0 0zm0 0l0 0 0 -16 0 0c1,0 3,0 4,0l0 14 0 0 -4 2zm10 -1l0 0 -5 -2 0 -14 -1 0c-1,0 -2,0 -3,0l1 -2 0 -11 4 0 0 4 0 9 0 0 0 -8c1,0 1,1 1,1l0 8c-1,0 -1,0 -1,0l-1 1c0,0 2,0 3,0 1,1 2,2 2,4l0 10zm17 129l0 0 0 20 -10 0 0 -20 4 0 6 0zm-10 -79l0 0 0 3 -8 -3 0 -2 7 2 1 0zm-3 -21l0 0 -1 0 3 1 0 19 -7 -2 0 -20 4 2 1 0zm-4 126l0 0 -4 0 0 -4 4 0 0 4zm0 -5l0 0 -4 0 0 -137 5 -5 2 4 0 16 -5 -2 0 21 0 4 0 45 1 0 0 -45 8 2 0 23 -7 0 0 18 1 0 0 -17 7 0 3 2 0 18 -15 0 0 5 4 0 0 48zm1 -49l0 0 -4 0 0 -3 14 0 1 0 0 3 -1 0 -10 0zm5 52l0 0 -5 2 0 -4 5 -2 0 4zm0 -24l0 0 0 20 -5 1 0 -48 9 0 0 27 -4 0zm1 24l0 0 0 -4 10 0 1 0 1 0 0 4 -12 0zm8 72l0 0 0 7c0,0 0,0 0,0 0,0 0,0 -1,0 -1,-1 -1,-1 -2,-1l0 -54 8 0 3 0 0 2 2 0 0 34 0 12 -10 0zm23 1l0 0 0 7c-2,-1 -3,-1 -5,0 0,0 0,0 0,0 -1,0 -2,0 -2,0 -1,0 -1,0 -2,-1 0,0 -1,0 -1,0 -2,-1 -3,0 -4,0 -1,0 -2,1 -3,1 0,0 -1,-1 -1,-1 -1,0 -2,0 -3,0 0,0 0,0 0,0 0,0 -1,1 -1,1 0,0 0,0 0,0l0 -7 10 0 12 0z"/>
+    </g>
+    <polygon class="fil1 str0" points="652,234 645,234 645,231 652,231 "/>
+    <polygon class="fil0 str0" points="652,238 645,238 645,235 652,235 "/>
+    <polygon class="fil1 str0" points="652,242 645,242 645,239 652,239 "/>
+    <polygon class="fil0 str0" points="652,246 645,246 645,243 652,243 "/>
+    <polygon class="fil1 str0" points="652,250 645,250 645,247 652,247 "/>
+    <polygon class="fil0 str0" points="652,253 645,253 645,251 652,251 "/>
+    <polygon class="fil1 str0" points="647,209 639,209 639,206 647,206 "/>
+    <polygon class="fil0 str0" points="647,213 639,213 639,210 647,210 "/>
+    <polygon class="fil1 str0" points="647,217 639,217 639,214 647,214 "/>
+    <polygon class="fil0 str0" points="647,220 639,220 639,218 647,218 "/>
+    <polygon class="fil0 str0" points="645,184 638,184 638,182 645,182 "/>
+    <polygon class="fil1 str0" points="645,188 638,188 638,186 645,186 "/>
+    <polygon class="fil1 str0" points="645,192 638,192 638,190 645,190 "/>
+    <polygon class="fil0 str0" points="645,196 638,196 638,194 645,194 "/>
+    <polygon class="fil0 str0" points="603,221 596,221 596,219 603,219 "/>
+    <polygon class="fil1 str0" points="603,225 596,225 596,223 603,223 "/>
+    <polygon class="fil0 str0" points="603,229 596,229 596,227 603,227 "/>
+    <polygon class="fil1 str0" points="603,233 596,233 596,231 603,231 "/>
+    <polygon class="fil0 str0" points="603,237 596,237 596,234 603,234 "/>
+    <polygon class="fil1 str0" points="603,241 596,241 596,238 603,238 "/>
+    <polygon class="fil0 str0" points="603,245 596,245 596,242 603,242 "/>
+    <polygon class="fil1 str0" points="603,249 596,249 596,246 603,246 "/>
+    <polygon class="fil0 str0" points="603,252 596,252 596,250 603,250 "/>
+    <polygon class="fil1 str0" points="603,256 596,256 596,254 603,254 "/>
+    <polygon class="fil0 str0" points="603,260 596,260 596,258 603,258 "/>
+    <polygon class="fil1 str0" points="603,264 596,264 596,262 603,262 "/>
+    <polygon class="fil0 str0" points="603,268 596,268 596,265 603,265 "/>
+    <polygon class="fil1 str0" points="603,272 596,272 596,269 603,269 "/>
+    <polygon class="fil0 str0" points="603,276 596,276 596,273 603,273 "/>
+    <polygon class="fil1 str0" points="603,280 596,280 596,277 603,277 "/>
+    <polygon class="fil0 str0" points="639,156 632,156 632,153 639,153 "/>
+    <polygon class="fil1 str0" points="639,156 632,156 632,154 639,154 "/>
+    <polygon class="fil0 str0" points="639,160 632,160 632,158 639,158 "/>
+    <polygon class="fil1 str0" points="639,164 632,164 632,162 639,162 "/>
+    <polygon class="fil0 str0" points="639,168 632,168 632,166 639,166 "/>
+    <polygon class="fil1 str0" points="639,173 632,173 632,170 639,170 "/>
+    <polygon class="fil0 str0" points="640,132 633,132 633,130 640,130 "/>
+    <polygon class="fil1 str0" points="640,136 633,136 633,133 640,133 "/>
+    <polygon class="fil1 str0" points="640,140 633,140 633,137 640,137 "/>
+    <polygon class="fil0 str0" points="640,143 633,143 633,141 640,141 "/>
+    <polygon class="fil0 str0" points="618,120 611,120 611,117 618,117 "/>
+    <polygon class="fil1 str0" points="618,124 611,124 611,121 618,121 "/>
+    <polygon class="fil1 str0" points="618,127 611,127 611,125 618,125 "/>
+    <polygon class="fil0 str0" points="618,131 611,131 611,128 618,128 "/>
+    <polygon class="fil1 str0" points="636,107 631,107 631,104 636,104 "/>
+    <polygon class="fil0 str0" points="636,111 631,111 631,108 636,108 "/>
+    <polygon class="fil1 str0" points="636,115 631,115 631,112 636,112 "/>
+    <polygon class="fil0 str0" points="636,119 631,119 631,116 636,116 "/>
+    <polygon class="fil1 str0" points="636,123 631,123 631,120 636,120 "/>
+    <polygon class="fil0 str0" points="635,83 630,83 630,81 635,81 "/>
+    <polygon class="fil1 str0" points="635,88 630,88 630,85 635,85 "/>
+    <polygon class="fil0 str0" points="635,92 630,92 630,89 635,89 "/>
+    <polygon class="fil1 str0" points="621,68 616,68 616,65 621,65 "/>
+    <polygon class="fil0 str0" points="621,72 616,72 616,69 621,69 "/>
+    <polygon class="fil1 str0" points="621,76 616,76 616,73 621,73 "/>
+    <polygon class="fil0 str0" points="621,79 616,79 616,77 621,77 "/>
+    <polygon class="fil1 str0" points="621,83 616,83 616,81 621,81 "/>
+    <polygon class="fil0 str0" points="621,87 616,87 616,85 621,85 "/>
+    <polygon class="fil1 str0" points="621,91 616,91 616,89 621,89 "/>
+    <polygon class="fil1 str0" points="621,108 615,108 615,105 621,105 "/>
+    <polygon class="fil1 str0" points="621,112 615,112 615,109 621,109 "/>
+    <polygon class="fil1 str0" points="632,67 627,67 627,65 632,65 "/>
+    <polygon class="fil0 str0" points="632,72 627,72 627,69 632,69 "/>
+   </g>
+   <g id="_2070278608992">
+    <g>
+     <polygon class="fil0 str0" points="572,287 568,287 568,113 572,113 "/>
+     <path class="fil0 str0" d="M532 169c-15,20 -24,45 -24,72 0,14 3,27 7,39l55 0 0 -111 -38 0z"/>
+     <path class="fil0 str0" d="M508 241c0,14 3,27 7,39l57 0 0 -142c-37,17 -64,57 -64,103zm60 35l0 0 -50 0c-4,-11 -5,-23 -5,-35 0,-41 21,-79 55,-97l0 132z"/>
+     <path class="fil0 str0" d="M531 241c0,14 2,27 5,39l36 0 0 -142c-24,17 -41,57 -41,103zm37 35l0 0 -29 0c-2,-11 -3,-23 -3,-35 0,-40 12,-76 32,-95l0 130z"/>
+     <path class="fil1 str0" d="M530 169c-1,3 12,7 28,8 15,1 28,-1 28,-5 1,-3 -12,-7 -28,-8 -15,-1 -28,1 -28,5z"/>
+    </g>
+    <polygon class="fil1 str0" points="552,273 542,273 542,263 552,263 "/>
+    <polygon class="fil0 str0" points="565,273 555,273 555,263 565,263 "/>
+    <polygon class="fil0 str0" points="552,259 542,259 542,249 552,249 "/>
+    <polygon class="fil1 str0" points="565,259 555,259 555,249 565,249 "/>
+    <polygon class="fil1 str0" points="552,246 542,246 542,236 552,236 "/>
+    <polygon class="fil0 str0" points="565,246 555,246 555,236 565,236 "/>
+    <polygon class="fil0 str0" points="552,232 542,232 542,222 552,222 "/>
+    <polygon class="fil1 str0" points="565,232 555,232 555,222 565,222 "/>
+    <polygon class="fil1 str0" points="552,219 542,219 542,209 552,209 "/>
+    <polygon class="fil0 str0" points="565,219 555,219 555,209 565,209 "/>
+    <polygon class="fil1 str0" points="565,205 555,205 555,195 565,195 "/>
+   </g>
+   <g id="_2070296835392">
+    <path class="fil4" d="M1487 62c0,0 0,0 0,0 -2,-1 -3,-1 -4,0 -1,0 -1,0 -2,0 0,-1 0,-1 0,-1 2,-2 5,-2 7,0 0,0 0,1 0,1 0,0 0,0 -1,0z"/>
+    <path class="fil4" d="M1487 62c0,0 0,0 0,0 0,0 0,-1 0,-1 2,-2 4,-2 6,0 1,0 1,0 1,1 -1,0 -1,0 -2,0 -1,-1 -2,-1 -4,0 0,0 0,0 -1,0z"/>
+    <g>
+     <path class="fil5" d="M1533 27c0,0 0,0 -1,0 -1,-2 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -1,0 -2,1 -1,1 -1,1 -1,0 -1,0 -1,-1 -1,-1 2,-1 3,-2 4,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,1 -1,1 0,0 0,0 0,0z"/>
+     <path class="fil5" d="M1533 27c0,0 0,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,1 -1,1 -2,0 0,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 -1,0 -1,0 -1,0z"/>
+    </g>
+    <path class="fil4" d="M1743 32c0,0 0,0 0,0 -1,-1 -3,-2 -4,-2 0,0 0,0 0,0 0,0 -1,1 -2,1 0,1 -1,1 -1,1 0,-1 -1,-1 0,-2 1,-1 2,-2 3,-2 0,0 0,0 1,0 1,0 2,1 4,3 0,0 0,1 0,1 0,0 -1,0 -1,0z"/>
+    <path class="fil4" d="M1743 32c0,0 0,0 0,0 -1,0 -1,-1 0,-1 1,-2 3,-3 4,-3 0,0 0,0 0,0 2,0 3,1 4,2 0,1 0,1 0,2 -1,0 -1,0 -1,-1 -1,0 -2,-1 -3,-1 0,0 0,0 0,0 -1,0 -2,1 -3,2 0,0 -1,0 -1,0z"/>
+    <path class="fil6 str3" d="M1432 54c2,0 5,2 5,5 0,3 -3,5 -5,5 -3,0 -5,-2 -5,-5 0,-3 2,-5 5,-5z"/>
+    <path class="fil4" d="M1698 93c-1,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,1 -3,1 0,1 0,1 -1,1 0,-1 0,-1 0,-2 1,-1 3,-2 4,-2 0,0 0,0 0,0 1,0 3,1 4,3 1,0 1,1 0,1 0,0 0,0 0,0z"/>
+    <path class="fil4" d="M1698 93c0,0 -1,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 2,1 3,2 1,1 1,1 0,2 0,0 -1,0 -1,-1 -1,0 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,1 -4,2 0,0 0,0 0,0z"/>
+    <path class="fil4" d="M1568 56c0,0 0,0 0,0 -2,-1 -3,-2 -4,-2 0,0 0,0 0,0 0,0 -1,1 -2,2 0,0 -1,0 -1,0 -1,-1 -1,-1 0,-1 1,-2 2,-2 3,-2 0,0 0,0 0,0 2,0 3,0 5,2 0,1 0,1 0,1 0,0 -1,0 -1,0z"/>
+    <path class="fil4" d="M1568 56c0,0 0,0 0,0 -1,0 -1,-1 0,-1 1,-2 3,-2 4,-2 0,0 0,0 0,0 1,0 3,0 4,2 0,0 0,0 0,1 -1,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 0,0 -1,0 -1,0z"/>
+    <path class="fil4" d="M1766 103c0,0 0,0 0,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,0 -3,1 0,1 -1,1 -1,0 0,0 0,0 0,-1 1,-1 2,-2 4,-2 0,0 0,0 0,0 1,0 3,1 4,3 0,0 0,1 0,1 0,0 0,0 -1,0z"/>
+    <path class="fil4" d="M1766 103c0,0 0,0 0,0 0,0 0,-1 0,-1 1,-2 3,-3 4,-3 0,0 0,0 0,0 2,0 3,1 4,2 0,1 0,1 0,1 0,1 -1,1 -1,0 -1,-1 -2,-1 -3,-1 0,0 0,0 0,0 -1,0 -2,1 -3,2 0,0 0,0 -1,0z"/>
+    <path class="fil4" d="M1864 30l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 4,-3 2,0 4,1 5,2 2,0 3,1 3,3 2,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-1,0 -3,2 -3,3l0 1 -1 0c-1,0 -1,1 -1,2 0,1 1,2 2,2l10 0c1,0 2,-1 2,-1 0,-1 -1,-2 -2,-2l0 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c-1,-2 -2,-3 -4,-3z"/>
+    <path class="fil7" d="M1480 46l-19 0c-3,0 -7,-4 -7,-7 0,-3 2,-6 5,-7 1,-4 5,-6 9,-6 3,0 6,2 8,5 3,-1 5,1 6,4 3,1 4,3 4,5 0,3 -2,6 -6,6zm-12 -17l0 0c-3,0 -6,2 -6,5l0 1 -1 0c-2,0 -4,2 -4,4 0,2 2,4 4,4l19 0c2,0 3,-2 3,-3 0,-1 -1,-2 -3,-3l-1 0 0 -2c0,-1 -1,-2 -2,-2 -1,0 -1,0 -1,1l-2 1 -1 -2c0,-3 -3,-4 -5,-4z"/>
+    <g>
+     <path class="fil4" d="M1459 103l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 4,-3 2,0 4,1 5,2 2,0 3,1 3,3 2,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-1,0 -3,2 -3,3l0 1 -1 0c-1,0 -1,1 -1,2 0,1 1,2 2,2l10 0c1,0 2,-1 2,-1 0,-1 -1,-2 -2,-2l0 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c-1,-2 -2,-3 -4,-3z"/>
+     <path class="fil8" d="M1456 94l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+     <path class="fil8" d="M1460 97l7 0c1,0 1,0 1,0l0 0c0,1 0,1 -1,1l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <path class="fil4" d="M1599 31l-10 0c-2,0 -4,-1 -4,-3 0,-2 1,-3 2,-4 1,-2 3,-3 5,-3 2,0 4,1 5,2 1,0 3,1 3,3 2,0 2,1 2,3 0,1 -1,2 -3,2zm-7 -9l0 0c-1,0 -3,1 -3,3l0 0 -1 1c-1,0 -2,1 -2,2 0,1 1,2 3,2l10 0c1,0 2,-1 2,-1 0,-1 -1,-2 -2,-2l-1 0 0 -1c0,-1 0,-1 -1,-1 0,0 0,0 0,0l-1 1 -1 -2c0,-1 -1,-2 -3,-2z"/>
+     <path class="fil8" d="M1596 22l7 0c1,0 1,1 1,1l0 0c0,0 0,1 -1,1l-7 0 0 -2z"/>
+     <path class="fil8" d="M1600 26l7 0c0,0 1,0 1,0l0 0c0,0 -1,1 -1,1l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <path class="fil4" d="M1706 54l-11 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 1,-2 3,-3 5,-3 2,0 3,1 4,2 2,0 3,1 4,3 1,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-2,0 -3,2 -4,3l0 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l11 0c1,0 1,-1 1,-1 0,-1 0,-2 -1,-2l-1 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c0,-2 -2,-3 -3,-3z"/>
+     <path class="fil8" d="M1703 45l7 0c0,0 1,0 1,0l0 0c0,1 -1,1 -1,1l-7 0 0 -1z"/>
+     <path class="fil8" d="M1706 48l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+    </g>
+    <g>
+     <path class="fil4" d="M928 19l-11 0c-2,0 -4,-2 -4,-4 0,-2 2,-3 3,-4 1,-2 3,-3 5,-3 2,0 3,1 4,2 2,0 3,1 4,3 1,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-2,0 -3,2 -3,3l-1 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l11 0c1,0 1,-1 1,-1 0,-1 0,-2 -1,-2l-1 0 0 -1c0,-1 0,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c0,-2 -2,-3 -3,-3z"/>
+     <path class="fil8" d="M925 10l7 0c0,0 1,0 1,0l0 0c0,0 -1,1 -1,1l-7 0 0 -1z"/>
+     <path class="fil8" d="M928 13l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+    </g>
+    <path class="fil4" d="M1917 287l-1088 0c-1,0 -3,0 -3,0 0,-1 2,-1 3,-1l1088 0c2,0 3,0 3,1 0,0 -1,0 -3,0z"/>
+    <path class="fil4" d="M856 38c0,0 0,-1 -1,-1 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -1,1 -2,2 -1,0 -1,0 -1,0 -1,-1 -1,-1 -1,-1 2,-2 3,-2 4,-2 0,0 0,0 0,0 2,0 3,1 5,2 0,1 0,1 -1,1 0,1 0,1 0,1z"/>
+    <path class="fil4" d="M856 38c0,0 0,0 -1,-1 0,0 0,0 0,-1 2,-1 3,-2 5,-2 0,0 0,0 0,0 1,0 3,0 4,2 0,0 0,0 0,1 -1,0 -1,0 -2,0 0,-1 -1,-2 -2,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 -1,0 -1,1 -1,1z"/>
+    <path class="fil6 str3" d="M730 104c3,0 5,3 5,5 0,3 -2,5 -5,5 -2,0 -5,-2 -5,-5 0,-2 3,-5 5,-5z"/>
+    <path class="fil6 str3" d="M992 54c2,0 5,2 5,5 0,3 -3,5 -5,5 -3,0 -5,-2 -5,-5 0,-3 2,-5 5,-5z"/>
+    <g>
+     <polygon class="fil8" points="824,79 833,79 833,80 824,80 "/>
+     <polygon class="fil8" points="828,84 828,75 829,75 829,84 "/>
+    </g>
+    <g>
+     <path class="fil4" d="M730 66l-11 0c-2,0 -3,-1 -3,-3 0,-2 1,-4 2,-4 1,-2 3,-4 5,-4 2,0 3,1 4,3 2,0 4,1 4,2 1,1 2,2 2,3 0,2 -1,3 -3,3zm-7 -9l0 0c-2,0 -3,1 -3,3l0 0 -1 0c-1,0 -2,1 -2,3 0,1 1,2 2,2l11 0c1,0 1,-1 1,-2 0,0 0,-1 -1,-1l-1 0 0 -1c0,-1 0,-1 -1,-1 0,0 0,0 -1,0l0 1 -1 -2c0,-1 -2,-2 -3,-2z"/>
+     <path class="fil8" d="M727 57l7 0c0,0 1,0 1,1l0 0c0,0 -1,0 -1,0l-7 0 0 -1z"/>
+     <path class="fil8" d="M731 60l7 0c0,0 0,1 0,1l0 0c0,0 0,0 0,0l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <path class="fil4" d="M801 81l-11 0c-2,0 -4,-2 -4,-4 0,-1 1,-3 3,-3 1,-2 2,-4 5,-4 1,0 3,1 4,3 2,0 3,1 3,2 2,1 3,2 3,3 0,2 -2,3 -3,3zm-7 -9l0 0c-2,0 -3,1 -4,3l0 0 0 0c-1,0 -2,1 -2,2 0,2 1,3 2,3l11 0c1,0 1,-1 1,-2 0,0 0,-1 -1,-1l-1 0 0 -1c0,-1 -1,-2 -1,-2 -1,0 -1,0 -1,1l-1 0 0 -1c-1,-1 -2,-2 -3,-2z"/>
+     <path class="fil8" d="M798 72l7 0c0,0 0,0 0,1l0 0c0,0 0,0 0,0l-7 0 0 -1z"/>
+     <path class="fil8" d="M801 75l8 0c0,0 0,1 0,1l0 0c0,0 0,0 0,0l-8 0 0 -1z"/>
+    </g>
+    <g>
+     <path class="fil7" d="M675 90l-11 0c-2,0 -3,-2 -3,-4 0,-1 1,-3 2,-3 1,-2 3,-4 5,-4 2,0 4,1 4,3 2,-1 4,1 4,2 1,1 2,2 2,3 0,2 -1,3 -3,3zm-7 -9l0 0c-2,0 -3,1 -3,2l0 1 -1 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l11 0c1,0 1,0 1,-1 0,-1 0,-1 -1,-1l-1 -1 0 -1c0,0 0,-1 -1,-1 0,0 0,0 0,0l-1 1 -1 -1c0,-1 -2,-2 -3,-2z"/>
+     <path class="fil9" d="M672 81l7 0c1,0 1,0 1,1l0 0c0,0 0,0 -1,0l-7 0 0 -1z"/>
+     <path class="fil9" d="M676 84l7 0c0,0 0,0 0,1l0 0c0,0 0,0 0,0l-7 0 0 -1z"/>
+    </g>
+    <path class="fil10 str4" d="M34 38l77 -1c1,-3 7,-11 -6,-9 3,-8 -6,-15 -11,-2 -1,2 -3,1 -5,0 -2,-15 -13,-10 -14,0 -2,2 -5,2 -7,-1 2,-8 -5,-18 -16,-5 -5,-14 -18,-4 -14,4 -17,0 -9,11 -4,14z"/>
+    <g>
+     <g>
+      <path class="fil4" d="M61 287c0,0 0,0 0,-1l0 -47c0,0 0,-1 0,-1 1,0 1,1 1,1l0 47c0,1 0,1 -1,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M62 240c-6,0 -12,-4 -14,-10 0,-1 0,-1 1,-1 0,0 1,0 1,0 1,6 6,9 12,9 5,0 10,-3 12,-9 0,0 0,0 1,0 0,0 0,0 0,1 -1,6 -7,10 -13,10z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M84 225c0,0 -1,0 -1,0 0,0 0,-1 0,-1 4,-4 5,-10 2,-15 -2,-5 -8,-7 -13,-6 -1,0 -1,0 -1,-1 0,0 0,-1 0,-1 7,-1 13,2 16,7 3,6 2,13 -3,17 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M45 231c-3,0 -6,-1 -7,-4 0,-1 0,-1 1,-1 0,0 1,0 1,0 0,2 2,4 5,4 2,0 4,-1 4,-4 0,0 1,0 1,0 1,0 1,0 1,1 -1,3 -4,4 -6,4z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M86 235c0,0 0,0 -1,0 0,0 0,-1 1,-1 1,-1 1,-4 0,-6 -1,-2 -3,-3 -5,-2 0,0 -1,0 -1,-1 0,0 0,-1 1,-1 3,0 5,1 7,4 1,2 1,5 -1,7 -1,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M44 208c-1,0 -1,-1 -1,-1 -2,-5 0,-10 5,-13 4,-3 10,-3 14,1 0,0 0,1 0,1 0,0 -1,0 -1,0 -4,-3 -9,-3 -12,-1 -4,3 -6,7 -5,12 0,0 0,0 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M62 198c0,0 0,0 0,0 -1,0 -1,-1 -1,-1 0,-3 3,-5 6,-5 0,0 0,0 0,0 3,0 5,2 6,4 0,1 0,1 0,1 -1,0 -1,0 -1,0 -1,-2 -3,-4 -5,-4 -2,1 -4,2 -5,4 0,1 0,1 0,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M36 231c0,0 -1,0 -1,0 -4,-4 -5,-11 -3,-16 3,-6 9,-9 15,-8 1,0 1,1 1,1 0,0 0,1 -1,1 -5,-1 -11,1 -13,6 -3,5 -2,11 2,15 1,0 1,1 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M75 213c0,0 -1,-1 -1,-1 -1,-3 1,-6 3,-7 2,-2 6,-2 8,0 0,1 0,1 0,2 -1,0 -1,0 -1,0 -2,-2 -4,-2 -6,-1 -2,1 -3,4 -2,6 0,0 0,1 -1,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil1" d="M71 216c0,0 -1,0 -1,-1 -1,-4 -5,-7 -10,-7 -4,0 -8,3 -10,7 0,1 0,1 -1,1 0,0 0,-1 0,-1 1,-5 6,-9 11,-9 6,0 10,4 12,9 0,0 0,1 -1,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil1" d="M76 220c-1,0 -1,-1 -1,-1 -1,-2 -2,-3 -4,-3 -2,0 -3,1 -4,3 0,0 0,1 -1,1 0,-1 0,-1 0,-1 1,-3 3,-4 5,-4 2,0 5,1 5,4 1,0 0,0 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M51 244c-6,0 -12,-4 -13,-10 -1,0 0,-1 0,-1 0,0 1,0 1,0 2,6 7,9 12,9 2,0 5,0 7,-2 1,0 1,0 1,0 1,1 0,1 0,1 -3,2 -5,3 -8,3z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M73 241c0,0 0,0 -1,0l0 0c-2,0 -4,-1 -5,-2 -1,0 -1,0 -1,-1 1,0 1,0 1,0 2,1 4,1 6,1 4,0 7,-2 8,-6 0,0 1,-1 1,0 1,0 1,0 1,1 -2,4 -6,7 -10,7z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M351 19c0,0 0,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -1,1 -2,2 -1,0 -1,0 -1,0 -1,-1 -1,-1 0,-2 1,-1 2,-1 3,-1 0,0 0,0 0,0 2,0 3,0 5,2 0,0 0,1 0,1 -1,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M351 19c0,0 0,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-2 5,-2 0,0 0,0 0,0 1,0 3,0 4,1 0,1 0,1 0,2 -1,0 -1,0 -2,0 0,-1 -1,-2 -2,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 -1,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M301 123c-1,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 0,0 0,0 -1,0 0,-1 0,-1 0,-1 1,-2 3,-2 4,-2 0,0 0,0 0,0 1,0 3,0 4,2 1,0 0,1 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M301 123c-1,0 -1,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-2 5,-2 0,0 0,0 0,0 1,0 2,0 3,2 1,0 1,0 0,1 0,0 -1,0 -1,0 -1,-1 -2,-2 -2,-2 0,0 0,0 0,0 -1,0 -3,1 -4,2 0,0 0,0 0,0z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M84 111c-1,0 -1,0 -1,-1 -2,-1 -3,-1 -4,0 -1,0 -1,0 -1,0 -1,-1 -1,-1 0,-1 2,-2 4,-2 6,0 0,0 0,1 0,1 0,0 0,1 0,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M84 111c-1,0 -1,-1 -1,-1 0,0 0,-1 0,-1 2,-2 5,-2 7,0 0,0 0,0 0,1 -1,0 -1,0 -1,0 -2,-1 -3,-1 -5,0 0,1 0,1 0,1z"/>
+     </g>
+    </g>
+    <circle class="fil6 str3" cx="242" cy="30" r="5"/>
+    <circle class="fil6 str3" cx="311" cy="89" r="5"/>
+    <circle class="fil6 str3" cx="404" cy="19" r="5"/>
+    <g>
+     <g>
+      <path class="fil4" d="M79 77c-1,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,0 -3,1 0,1 0,1 -1,0 0,0 0,0 0,-1 1,-1 3,-2 4,-2 0,0 0,0 0,0 1,0 3,1 4,3 1,0 1,1 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M79 77c0,0 -1,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 2,1 3,2 1,1 1,1 0,1 0,1 -1,1 -1,0 -1,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,1 -4,2 0,0 0,0 0,0z"/>
+     </g>
+    </g>
+    <circle class="fil6 str3" cx="537" cy="18" r="5"/>
+    <circle class="fil6 str3" cx="328" cy="70" r="5"/>
+    <circle class="fil6 str3" cx="32" cy="169" r="5"/>
+    <circle class="fil6 str3" cx="78" cy="141" r="5"/>
+    <g>
+     <g>
+      <path class="fil4" d="M381 60c0,0 0,0 -1,0 -1,-2 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -1,0 -2,1 -1,0 -1,0 -1,0 -1,0 -1,-1 0,-1 1,-1 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,1 0,1 -1,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M381 60c0,0 0,0 0,0 -1,0 -1,-1 -1,-1 2,-2 4,-3 5,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,0 -1,0 -2,0 0,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 -1,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <circle class="fil6 str3" cx="512" cy="156" r="5"/>
+    <circle class="fil6 str3" cx="419" cy="66" r="5"/>
+    <g>
+     <g>
+      <path class="fil4" d="M28 138c0,0 0,0 0,0 -2,-1 -3,-1 -5,0 0,0 -1,0 -1,0 0,-1 0,-1 0,-2 2,-1 4,-1 7,1 0,0 0,1 0,1 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M28 138c0,0 0,0 -1,0 0,0 0,-1 1,-1 2,-2 4,-2 6,-1 0,1 0,1 0,2 0,0 -1,0 -1,0 -1,-1 -3,-1 -4,0 -1,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M19 200c0,0 0,0 0,-1 -1,0 -2,-1 -3,0 0,0 0,0 -1,0 0,0 0,0 1,-1 1,-1 2,-1 4,1 0,0 0,0 0,0 0,1 -1,1 -1,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M19 200c0,0 0,0 0,-1 0,0 0,0 0,0 1,-2 3,-2 4,-1 0,1 0,1 0,1 0,0 0,0 -1,0 0,-1 -1,0 -2,0 0,1 -1,1 -1,1z"/>
+     </g>
+    </g>
+    <g>
+     <rect class="fil8" x="263" y="17" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 267.288 22.2933)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <rect class="fil8" x="38" y="109" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 41.6812 114.071)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <rect class="fil8" x="189" y="17" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 192.358 21.411)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <rect class="fil8" x="280" y="77" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 284.236 81.4819)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M471 29l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 5,-3 1,0 3,1 4,3 2,-1 3,0 3,2 2,0 3,2 3,3 -1,1 -2,3 -4,3zm-6 -9l0 0c-2,0 -3,1 -4,2l0 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l10 0c1,0 2,0 2,-1 0,-1 0,-1 -1,-2l-1 0 0 -1c0,0 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c-1,-1 -2,-2 -3,-2z"/>
+     </g>
+     <path class="fil8" d="M468 20l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+     <path class="fil8" d="M472 23l7 0c1,0 1,0 1,1l0 0c0,0 0,0 -1,0l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil11" d="M468 70l-10 0c-2,0 -4,-1 -4,-3 0,-2 1,-4 3,-4 0,-2 2,-4 5,-4 1,0 3,1 4,3 2,0 3,1 3,2 2,1 3,2 3,3 -1,2 -2,3 -4,3zm-6 -9l0 0c-2,0 -3,1 -4,3l0 0 0 0c-1,0 -2,1 -2,3 0,1 1,2 2,2l10 0c1,0 2,-1 2,-2 0,0 0,-1 -1,-1l-1 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -2c-1,-1 -2,-2 -3,-2z"/>
+     </g>
+     <path class="fil12" d="M466 61l7 0c0,0 0,0 0,1l0 0c0,0 0,0 0,0l-7 0 0 -1z"/>
+     <path class="fil12" d="M469 64l8 0c0,0 0,1 0,1l0 0c0,0 0,0 0,0l-8 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M526 117l-11 0c-2,0 -4,-2 -4,-4 0,-2 2,-3 3,-4 1,-2 3,-3 5,-3 2,0 3,1 4,2 2,0 3,1 4,3 1,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-2,0 -3,2 -4,3l0 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l11 0c1,0 1,-1 1,-1 0,-1 0,-2 -1,-2l-1 0 0 -1c0,-1 0,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c0,-2 -2,-3 -3,-3z"/>
+     </g>
+     <path class="fil8" d="M523 108l7 0c0,0 1,0 1,0l0 0c0,0 -1,1 -1,1l-7 0 0 -1z"/>
+     <path class="fil8" d="M526 111l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M28 64l-11 0c-2,0 -3,-2 -3,-4 0,-2 1,-3 2,-4 1,-2 3,-3 5,-3 2,0 4,1 4,2 2,0 4,1 4,3 1,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-2,0 -3,2 -3,3l0 1 -1 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l11 0c1,0 1,-1 1,-1 0,-1 0,-2 -1,-2l-1 0 0 -1c0,-1 0,-1 -1,-1 0,0 0,0 0,0l-1 1 -1 -1c0,-2 -2,-3 -3,-3z"/>
+     </g>
+     <path class="fil8" d="M25 55l7 0c1,0 1,0 1,0l0 0c0,1 0,1 -1,1l-7 0 0 -1z"/>
+     <path class="fil8" d="M29 58l7 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M162 64l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 5,-3 1,0 3,1 4,2 2,0 3,1 3,3 2,0 3,2 3,3 -1,1 -2,3 -4,3zm-6 -10l0 0c-2,0 -3,2 -4,3l0 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l10 0c1,0 2,-1 2,-1 0,-1 0,-2 -1,-2l-1 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c-1,-2 -2,-3 -3,-3z"/>
+     </g>
+     <path class="fil8" d="M160 55l7 0c0,0 0,0 0,0l0 0c0,0 0,1 0,1l-7 0 0 -1z"/>
+     <path class="fil8" d="M163 58l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M33 273l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 5,-3 1,0 3,1 4,3 2,-1 3,0 3,2 2,0 3,2 3,3 -1,1 -2,3 -4,3zm-6 -9l0 0c-2,0 -3,1 -4,2l0 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l10 0c1,0 2,0 2,-1 0,-1 0,-2 -1,-2l-1 0 0 -1c0,0 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c-1,-1 -2,-2 -3,-2z"/>
+     </g>
+     <path class="fil8" d="M31 264l7 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-7 0 0 -1z"/>
+     <path class="fil8" d="M34 267l7 0c1,0 1,0 1,1l0 0c0,0 0,0 -1,0l-7 0 0 -1z"/>
+    </g>
+    <path class="fil10 str4" d="M969 38l77 -1c1,-3 8,-11 -6,-9 3,-8 -6,-15 -11,-2 -1,2 -3,1 -4,0 -2,-15 -14,-10 -15,0 -2,2 -4,2 -7,-1 2,-8 -5,-18 -16,-5 -5,-14 -18,-4 -14,4 -17,0 -9,11 -4,14z"/>
+    <g>
+     <g>
+      <path class="fil11" d="M1163 78l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 4,-3 2,0 4,1 5,2 2,0 3,1 3,3 2,0 2,2 2,3 0,1 -1,3 -3,3zm-7 -10l0 0c-1,0 -3,2 -3,3l0 1 -1 0c-1,0 -1,1 -1,2 0,1 1,2 2,2l10 0c1,0 2,-1 2,-1 0,-1 -1,-2 -2,-2l0 0 0 -1c0,-1 -1,-1 -2,-1 0,0 0,0 0,0l-1 1 0 -1c-1,-2 -2,-3 -4,-3z"/>
+     </g>
+     <path class="fil12" d="M1160 69l8 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-8 0 0 -1z"/>
+     <path class="fil12" d="M1164 72l7 0c1,0 1,0 1,0l0 0c0,1 0,1 -1,1l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M1213 110l-10 0c-2,0 -4,-2 -4,-4 0,-2 1,-3 3,-4 0,-2 2,-3 5,-3 1,0 3,1 4,2 2,0 3,1 3,3 2,0 3,1 3,3 -1,1 -2,3 -4,3zm-6 -10l0 0c-2,0 -3,1 -4,3l0 1 0 0c-1,0 -2,1 -2,2 0,1 1,2 2,2l10 0c1,0 2,-1 2,-1 0,-1 0,-2 -2,-2l0 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -1c-1,-2 -2,-3 -3,-3z"/>
+     </g>
+     <path class="fil8" d="M1210 101l8 0c0,0 0,0 0,0l0 0c0,0 0,1 0,1l-8 0 0 -1z"/>
+     <path class="fil8" d="M1214 104l7 0c1,0 1,0 1,0l0 0c0,0 0,1 -1,1l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M1054 85c0,0 0,0 -1,0 -1,-2 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -1,0 -2,1 -1,0 -1,0 -1,0 -1,0 -1,-1 0,-1 1,-1 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,0 0,1 -1,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1054 85c0,0 0,0 -1,0 0,-1 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,0 -1,0 -2,0 0,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 -1,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <g>
+     <rect class="fil8" x="1116" y="33" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 1119.97 38.2689)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <path class="fil4" d="M1192 28l-10 0c-2,0 -4,-1 -4,-3 0,-2 1,-4 3,-4 0,-2 2,-4 4,-4 2,0 4,1 5,3 2,0 3,1 3,2 2,1 3,2 2,3 0,2 -1,3 -3,3zm-7 -9l0 0c-1,0 -3,1 -3,3l0 0 0 0c-1,0 -2,2 -2,3 0,1 1,2 2,2l10 0c1,0 2,-1 2,-2 0,0 0,-1 -2,-1l0 0 0 -1c0,-1 -1,-1 -1,-1 -1,0 -1,0 -1,0l-1 1 0 -2c-1,-1 -2,-2 -4,-2z"/>
+     <path class="fil8" d="M1189 19l8 0c0,0 0,1 0,1l0 0c0,0 0,0 0,0l-8 0 0 -1z"/>
+     <path class="fil8" d="M1193 22l7 0c1,0 1,1 1,1l0 0c0,0 0,0 -1,0l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <path class="fil13 str5" d="M1000 91l18 -1c4,-3 7,-9 -3,-11 -3,-5 -9,-6 -12,1 -7,3 -7,6 -3,11z"/>
+     <rect class="fil14" x="1014" y="78" width="8.42362" height="1.43091" rx="2" ry="1"/>
+     <rect class="fil14" x="1021" y="82" width="8.89252" height="1.07436" rx="2" ry="1"/>
+     <path class="fil14" d="M1021 87l12 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-12 0c0,0 0,0 0,0l0 -1c0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <path class="fil13 str5" d="M1337 63l19 0c4,-4 6,-10 -4,-11 -3,-6 -9,-6 -12,0 -6,3 -6,7 -3,11z"/>
+     <rect class="fil14" x="1352" y="51" width="8.42362" height="1.43091" rx="2" ry="1"/>
+     <rect class="fil14" x="1358" y="55" width="8.89252" height="1.07436" rx="2" ry="1"/>
+     <path class="fil14" d="M1358 59l12 0c0,0 1,1 1,1l0 0c0,0 -1,0 -1,0l-12 0c0,0 0,0 0,0l0 0c0,0 0,-1 0,-1z"/>
+    </g>
+    <g>
+     <path class="fil13 str5" d="M297 44l18 -1c4,-3 7,-9 -3,-11 -3,-6 -9,-6 -12,1 -7,3 -7,6 -3,11z"/>
+     <rect class="fil14" x="311" y="31" width="8.42362" height="1.43091" rx="2" ry="1"/>
+     <rect class="fil14" x="318" y="35" width="8.89252" height="1.07436" rx="2" ry="1"/>
+     <path class="fil14" d="M318 40l12 0c0,0 0,0 0,0l0 0c0,1 0,1 0,1l-12 0c0,0 0,0 0,-1l0 0c0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M591 25c-1,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,0 -3,1 0,1 0,1 -1,0 0,0 0,0 0,-1 1,-1 2,-2 4,-2 0,0 0,0 0,0 1,0 3,1 4,3 1,0 0,1 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M591 25c-1,0 -1,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 2,1 3,2 1,1 1,1 0,1 0,1 -1,1 -1,0 -1,-1 -2,-1 -2,-1 0,0 0,0 0,0 -1,0 -3,1 -4,2 0,0 0,0 0,0z"/>
+     </g>
+    </g>
+    <g>
+     <polygon class="fil8" points="789,20 798,20 798,21 789,21 "/>
+     <polygon class="fil8" points="793,24 793,16 794,16 794,24 "/>
+    </g>
+    <g>
+     <polygon class="fil8" points="665,53 674,53 674,54 665,54 "/>
+     <polygon class="fil8" points="669,57 669,49 670,49 670,57 "/>
+    </g>
+    <path class="fil6 str3" d="M898 84c2,0 4,3 4,5 0,3 -2,5 -4,5 -3,0 -5,-2 -5,-5 0,-2 2,-5 5,-5z"/>
+    <path class="fil6 str3" d="M731 17c2,0 4,2 4,4 0,3 -2,5 -4,5 -3,0 -5,-2 -5,-5 0,-2 2,-4 5,-4z"/>
+    <path class="fil6 str3" d="M1123 94c3,0 5,2 5,5 0,2 -2,4 -5,4 -2,0 -4,-2 -4,-4 0,-3 2,-5 4,-5z"/>
+    <g>
+     <g>
+      <path class="fil4" d="M1089 19c0,0 0,0 -1,0 -1,-2 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -1,0 -2,1 -1,0 -1,0 -1,0 -1,0 -1,-1 0,-1 1,-1 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,0 0,1 -1,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1089 19c0,0 0,0 -1,0 0,-1 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,0 -1,0 -2,0 0,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 -1,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M1216 65c0,0 0,0 0,0 -2,-2 -3,-2 -4,-2 0,0 0,0 0,0 -1,0 -1,0 -2,1 0,1 -1,1 -1,0 -1,0 -1,-1 0,-1 1,-1 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,1 0,1 -1,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1216 65c0,0 0,0 0,0 -1,0 -1,-1 0,-1 1,-2 3,-3 4,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,1 -1,1 -1,0 -1,-1 -2,-1 -3,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 0,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <g>
+     <rect class="fil8" x="1091" y="66" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 1094.4 71.1933)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <rect class="fil8" x="1334" y="105" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 1338.18 110.075)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <rect class="fil8" x="1415" y="18" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 1418.9 22.3642)" width="27.0827" height="3.1252"/>
+    </g>
+    <path class="fil6 str3" d="M1365 18c3,0 5,3 5,5 0,3 -2,5 -5,5 -2,0 -5,-2 -5,-5 0,-2 3,-5 5,-5z"/>
+    <g>
+     <g>
+      <path class="fil4" d="M1399 63c0,0 0,0 0,0 -2,-2 -3,-2 -4,-2 0,0 0,0 0,0 0,0 -1,0 -2,1 0,0 -1,0 -1,0 -1,0 -1,-1 0,-1 1,-1 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,1 0,1 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1399 63c0,0 0,0 0,0 -1,0 -1,-1 0,-1 1,-2 3,-3 4,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,0 -1,0 -1,0 -1,-1 -2,-1 -3,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 0,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <path class="fil6 str3" d="M1812 28c2,0 4,2 4,5 0,3 -2,5 -4,5 -3,0 -5,-2 -5,-5 0,-3 2,-5 5,-5z"/>
+    <path class="fil4" d="M1907 32c0,0 0,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 2,1 4,2 0,0 0,1 0,1 -1,1 -1,1 -2,0 0,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 -1,0 -1,0 -1,0z"/>
+    <g>
+     <path class="fil4" d="M1895 79l-10 0c-2,0 -4,-2 -4,-4 0,-1 1,-3 2,-3 1,-2 3,-4 5,-4 2,0 4,1 5,3 1,-1 3,0 3,2 2,1 2,2 2,3 0,2 -1,3 -3,3zm-7 -9l0 0c-1,0 -3,1 -3,2l0 1 -1 0c-1,0 -2,1 -2,2 0,1 1,2 3,2l10 0c1,0 1,0 2,-1 0,-1 -1,-1 -2,-1l-1 -1 0 -1c0,0 0,-1 -1,-1 0,0 0,0 0,0l-1 1 -1 -1c0,-1 -1,-2 -3,-2z"/>
+     <path class="fil8" d="M1892 70l7 0c1,0 1,0 1,1l0 0c0,0 0,0 -1,0l-7 0 0 -1z"/>
+     <path class="fil8" d="M1896 73l7 0c0,0 1,0 1,1l0 0c0,0 -1,0 -1,0l-7 0 0 -1z"/>
+    </g>
+    <g>
+     <polygon class="fil8" points="1796,7 1804,7 1804,8 1796,8 "/>
+     <polygon class="fil8" points="1799,11 1799,3 1800,3 1800,11 "/>
+    </g>
+    <path class="fil4" d="M1652 22c0,0 0,-1 0,-1 0,0 0,0 0,-1 1,-2 3,-2 4,-2 0,0 0,0 0,0 2,0 3,0 4,2 0,0 0,0 0,1 0,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 0,0 0,1 -1,1z"/>
+    <path class="fil4" d="M1661 21c-1,0 -1,0 -1,0 0,-1 0,-1 0,-2 2,-1 3,-2 5,-2 0,0 0,0 0,0 1,0 2,1 3,2 1,0 1,1 0,1 0,0 -1,0 -1,0 -1,-1 -2,-2 -2,-2 0,0 0,0 0,0 -1,0 -3,1 -4,3 0,0 0,0 0,0z"/>
+    <path class="fil6 str3" d="M1741 64c2,0 4,3 4,5 0,3 -2,5 -4,5 -3,0 -5,-2 -5,-5 0,-2 2,-5 5,-5z"/>
+    <g>
+     <path class="fil13 str5" d="M815 112l19 -1c4,-3 6,-9 -4,-10 -3,-6 -9,-7 -12,0 -6,3 -6,6 -3,11z"/>
+     <rect class="fil14" x="830" y="99" width="8.42362" height="1.43091" rx="2" ry="1"/>
+     <rect class="fil14" x="836" y="103" width="8.89252" height="1.07436" rx="2" ry="1"/>
+     <path class="fil14" d="M836 108l12 0c1,0 1,0 1,1l0 0c0,0 0,0 -1,0l-12 0c0,0 0,0 0,0l0 -1c0,0 0,0 0,0z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M781 113c0,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,0 -2,1 -1,1 -1,1 -2,0 0,0 0,0 0,-1 2,-1 3,-2 4,-2 0,0 0,0 0,0 2,0 3,1 4,3 1,0 1,1 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M781 113c0,0 -1,0 -1,0 0,0 0,-1 0,-1 2,-2 3,-3 5,-3 0,0 0,0 0,0 1,0 2,1 4,2 0,1 0,1 -1,1 0,1 0,1 -1,0 0,-1 -1,-1 -2,-1 0,0 0,0 0,0 -1,0 -2,1 -4,2 0,0 0,0 0,0z"/>
+     </g>
+    </g>
+    <g>
+     <rect class="fil8" x="521" y="64" width="8.59606" height="0.99194"/>
+     <rect class="fil8" transform="matrix(8.40604E-015 -0.317401 0.317401 8.40604E-015 525.206 68.8913)" width="27.0827" height="3.1252"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M577 94c0,0 0,0 0,0 -2,-2 -3,-2 -4,-2 0,0 0,0 0,0 0,0 -1,0 -2,1 0,0 -1,0 -1,0 -1,0 -1,-1 0,-1 1,-1 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,3 0,0 0,0 0,1 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M577 94c0,0 0,0 0,0 -1,-1 -1,-1 0,-1 1,-2 3,-3 4,-3 0,0 0,0 0,0 1,0 3,1 4,2 0,0 0,1 0,1 -1,0 -1,0 -1,0 -1,-1 -2,-1 -3,-1 0,0 0,0 0,0 -1,0 -2,0 -3,2 0,0 -1,0 -1,0z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M549 41c0,0 0,0 0,-1 -2,-1 -3,-2 -4,-2 0,0 0,0 0,0 0,0 -1,1 -2,2 0,0 -1,0 -1,0 -1,0 -1,-1 0,-1 1,-2 2,-2 3,-2 0,0 0,0 0,0 2,0 3,1 5,2 0,1 0,1 0,2 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M549 41c0,0 0,0 0,0 -1,-1 -1,-1 0,-2 1,-1 3,-2 4,-2 0,0 0,0 0,0 1,0 3,0 4,2 0,0 0,1 0,1 -1,0 -1,0 -1,0 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 0,1 -1,1 -1,1z"/>
+     </g>
+    </g>
+    <g>
+     <path class="fil13 str5" d="M1867 115l19 -1c4,-3 6,-9 -4,-11 -3,-5 -9,-6 -12,1 -6,3 -6,6 -3,11z"/>
+     <rect class="fil14" x="1882" y="102" width="8.42362" height="1.43091" rx="2" ry="1"/>
+     <rect class="fil14" x="1888" y="106" width="8.89252" height="1.07436" rx="2" ry="1"/>
+     <path class="fil14" d="M1889 111l11 0c1,0 1,0 1,0l0 0c0,1 0,1 -1,1l-11 0c-1,0 -1,0 -1,-1l0 0c0,0 0,0 1,0z"/>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M927 55c0,0 0,0 -1,-1 -1,-1 -2,-2 -3,-2 0,0 0,0 0,0 -1,0 -2,1 -2,2 -1,0 -1,0 -1,0 -1,0 -1,-1 -1,-1 2,-2 3,-2 4,-2 0,0 0,0 0,0 2,0 3,1 5,2 0,1 0,1 -1,1 0,1 0,1 0,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M927 55c0,0 0,0 -1,-1 0,0 0,0 0,-1 2,-1 3,-2 5,-2 0,0 0,0 0,0 1,0 2,0 4,2 0,0 0,1 0,1 -1,0 -1,0 -2,0 0,-1 -1,-2 -2,-2 0,0 0,0 0,0 -1,0 -2,1 -3,2 -1,1 -1,1 -1,1z"/>
+     </g>
+    </g>
+    <g>
+     <g>
+      <path class="fil4" d="M1892 287c-1,0 -1,0 -1,-1l0 -41c0,0 0,0 1,0 0,0 0,0 0,0l0 41c0,1 0,1 0,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1892 246c-5,0 -10,-4 -12,-9 0,0 0,-1 1,-1 0,0 1,0 1,1 1,4 5,7 10,7 5,0 9,-3 11,-7 0,-1 0,-1 0,-1 1,0 1,1 1,1 -2,5 -6,9 -12,9z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1911 233c0,0 0,0 0,0 0,0 0,-1 0,-1 3,-3 4,-9 2,-13 -3,-4 -7,-6 -12,-5 -1,0 -1,-1 -1,-1 0,0 0,-1 1,-1 5,-1 10,2 13,7 2,4 2,10 -2,14 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1877 239c-2,0 -5,-2 -5,-4 0,-1 0,-1 0,-1 1,0 1,0 1,0 1,2 2,3 4,3 2,0 4,-1 4,-3 0,0 1,0 1,0 0,0 1,0 1,1 -1,2 -3,4 -6,4z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1913 242c0,0 0,0 0,0 -1,-1 0,-1 0,-1 1,-1 1,-3 0,-5 0,-2 -2,-3 -4,-2 0,0 -1,0 -1,-1 0,0 0,-1 1,-1 2,0 4,1 6,3 1,2 1,5 -1,7 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1876 218c0,0 0,0 0,-1 -2,-4 0,-9 4,-11 4,-2 9,-2 12,1 0,0 0,0 0,1 0,0 -1,0 -1,0 -3,-3 -7,-3 -10,-1 -4,2 -5,6 -4,10 0,0 0,1 -1,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1892 209c0,0 0,0 0,0 0,0 -1,0 -1,0 1,-3 3,-4 5,-5 1,0 1,0 1,0 2,0 4,2 5,4 0,0 0,1 0,1 -1,0 -1,0 -1,-1 -1,-1 -3,-2 -4,-2 -2,0 -4,1 -4,3 0,0 -1,0 -1,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1870 239c-1,0 -1,0 -1,-1 -4,-3 -5,-9 -3,-14 3,-5 8,-7 14,-7 0,1 0,1 0,1 0,1 0,1 -1,1 -4,-1 -9,1 -11,6 -2,4 -1,9 2,12 0,1 0,1 0,1 0,1 0,1 0,1z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1904 222c-1,0 -1,0 -1,0 -1,-3 0,-5 2,-6 3,-2 5,-2 7,0 0,0 0,1 0,1 0,0 -1,0 -1,0 -1,-1 -3,-1 -5,0 -1,1 -2,3 -2,4 0,1 0,1 0,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil1" d="M1900 225c0,0 0,0 0,0 -2,-4 -5,-7 -9,-7 -4,0 -8,3 -9,7 0,0 0,0 -1,0 0,0 0,0 0,-1 1,-4 5,-7 10,-7 4,0 9,3 10,7 0,1 0,1 -1,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil1" d="M1904 228c0,0 0,0 0,0 -1,-2 -2,-3 -4,-3 -1,0 -3,1 -3,3 0,0 -1,0 -1,0 0,0 -1,0 0,-1 0,-2 2,-3 4,-3 2,0 4,1 5,3 0,1 0,1 -1,1 0,0 0,0 0,0z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1883 249c-6,0 -10,-3 -12,-8 0,-1 0,-1 0,-1 1,0 1,0 1,0 2,5 6,8 11,8 2,0 4,-1 6,-2 0,0 1,0 1,0 0,1 0,1 0,1 -2,2 -5,2 -7,2z"/>
+     </g>
+     <g>
+      <path class="fil4" d="M1902 247c0,0 -1,0 -1,0l0 0c-1,0 -3,0 -5,-1 0,-1 0,-1 0,-1 0,-1 1,-1 1,-1 2,1 3,2 5,2 3,0 6,-3 7,-6 0,0 0,0 1,0 0,0 0,0 0,1 -1,3 -4,6 -8,6z"/>
+     </g>
+    </g>
+    <path class="fil4" d="M846 287l-843 0c-2,0 -3,0 -3,0 0,-1 1,-1 3,-1l843 0c1,0 2,0 2,1 0,0 -1,0 -2,0z"/>
+    <path class="fil10 str4" d="M764 47l56 -1c1,-2 6,-7 -4,-6 2,-6 -5,-11 -8,-2 -1,2 -2,1 -4,0 -1,-10 -9,-7 -10,0 -1,2 -3,2 -5,0 1,-6 -4,-14 -12,-4 -3,-10 -13,-3 -10,3 -12,0 -6,8 -3,10z"/>
+    <path class="fil10 str4" d="M1636 28l66 -1c1,-2 7,-9 -5,-7 3,-7 -5,-13 -9,-2 -1,1 -3,1 -4,0 -2,-13 -12,-9 -13,0 -1,1 -4,1 -6,-1 2,-7 -4,-16 -13,-4 -5,-12 -16,-4 -12,3 -15,0 -8,9 -4,12z"/>
+   </g>
+  </g>
+ </g>
+</svg>

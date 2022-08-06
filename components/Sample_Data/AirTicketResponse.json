@@ -1,0 +1,538 @@
+{
+  "baseResponse": {
+    "status": 1,
+    "messege": "success"
+  },
+  "response": [
+    {
+      "TransactionsDetails": {
+        "bookingId": 118914,
+        "trnsNo": null,
+        "amount": "8514.0",
+        "cardNo": "Failure",
+        "holderName": "Payment Gateway",
+        "expDate": "NA",
+        "validFrom": null,
+        "issueNo": null,
+        "securityCode": "123",
+        "cardType": null,
+        "country": "IN",
+        "coutyState": "UP",
+        "city": "Noida",
+        "postCode": "201301",
+        "address": "B44,  B Block, Sector 59",
+        "cardCharges": "NO",
+        "chargesType": "Card",
+        "modifiedBy": null,
+        "modifiedDate": null,
+        "password": null
+      },
+      "PassengerDetails": [
+        {
+          "passengerDetailId": 167945,
+          "bookingId": 118914,
+          "title": "Mr",
+          "paxFirstName": "Varun",
+          "paxMiddleName": "",
+          "paxLastName": "Mittal",
+          "frequentFlyerNo": "",
+          "passportNo": null,
+          "nationality": null,
+          "expiryDate": null,
+          "placeOfIssue": "",
+          "placeOfBirth": "",
+          "paxDob": 761875200000,
+          "paxType": 1,
+          "paxSex": 1,
+          "modifiedBy": "System",
+          "modifiedDate": 1658127399000,
+          "pax_ticket": "G6G5YS",
+          "seatNo": null,
+          "gstnumber": "",
+          "companyName": ""
+        }
+      ],
+      "siteID": "6",
+      "SectorDetail": [
+        {
+          "sectorDetailId": 162929,
+          "bookingId": 118914,
+          "airline": "UK",
+          "opratingAirline": "UK",
+          "fromDestination": "DEL",
+          "fromDateTime": 1658215800000,
+          "toDestination": "BOM",
+          "toDateTime": 1658223900000,
+          "flightNo": "943",
+          "aclass": "V",
+          "status": "OK",
+          "fareBasis": "RP",
+          "notValidBefor": "",
+          "notValidAfter": "",
+          "baggageAllownce": "7 Kg,15 Kilograms",
+          "airportTerminalFrom": " 3",
+          "airportTerminalTo": " 2",
+          "eft": 135,
+          "layOverTime": 0,
+          "equipmentType": "320",
+          "segId": 118914,
+          "segRemarks": "G6G5YS",
+          "tripId": 0,
+          "modifiedBy": "System",
+          "modifiedDate": 1658127399000,
+          "equipmentTypeDes": "",
+          "techStops": "",
+          "fareType": "RP",
+          "cabinclass": "1",
+          "sectorStatus": "Flown Pending"
+        },
+        {
+          "sectorDetailId": 162930,
+          "bookingId": 118914,
+          "airline": "G8",
+          "opratingAirline": "G8",
+          "fromDestination": "BOM",
+          "fromDateTime": 1658259900000,
+          "toDestination": "DEL",
+          "toDateTime": 1658267400000,
+          "flightNo": "339",
+          "aclass": "BC",
+          "status": "OK",
+          "fareBasis": "RP",
+          "notValidBefor": "",
+          "notValidAfter": "",
+          "baggageAllownce": "7 Kg,15 Kg",
+          "airportTerminalFrom": " 1",
+          "airportTerminalTo": " 2",
+          "eft": 125,
+          "layOverTime": 0,
+          "equipmentType": "32A",
+          "segId": 118914,
+          "segRemarks": "G6G5YS",
+          "tripId": 1,
+          "modifiedBy": "System",
+          "modifiedDate": 1658127399000,
+          "equipmentTypeDes": "",
+          "techStops": "",
+          "fareType": "RP",
+          "cabinclass": "1",
+          "sectorStatus": "Flown Pending"
+        }
+      ],
+      "BookingsHistory": [
+        {
+          "bookingId": 118914,
+          "remarks": "Booking Created by System",
+          "modifiedBy": "System",
+          "modifiedDate": 1658127399000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127534000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Update Old PNR X,X to New PNR G6G5YS--By--Sumita",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127712000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127713000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Update Old PNR G6G5YS to New PNR G6G5YS--By--Sumita",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127717000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127719000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Update Old PNR G6G5YS to New PNR G6G5YS--By--Sumita",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127719000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Update Old PNR G6G5YS to New PNR G6G5YS--By--Sumita",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127721000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127722000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127722000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Update Old PNR G6G5YS to New PNR G6G5YS--By--Sumita",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127724000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127731000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127763000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127766000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127773000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127773000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127798000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127800000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127808000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127809000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Change Booking Status from BKGFAIL to TKTED and billing Status from NEW to null and ticketing Status from NEW to null",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127835000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Change Booking Status from TKTED to TKTED and billing Status from NEW to null and ticketing Status from NEW to null",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127836000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Change Booking Status from TKTED to TKTED and billing Status from NEW to null and ticketing Status from NEW to null",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127839000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Change Booking Status from TKTED to TKTED and billing Status from NEW to null and ticketing Status from NEW to null",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127853000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Change Booking Status from TKTED to TKTED and billing Status from NEW to null and ticketing Status from NEW to null",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127854000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Change Booking Status from TKTED to TKTED and billing Status from NEW to null and ticketing Status from NEW to null",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127865000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Open Booking Details",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127875000
+        }
+      ],
+      "bookingDetail": {
+        "bookingId": 118914,
+        "prodId": 1,
+        "searchId": "DELBOM0719202207192022INR:07182022065026:1226:INR",
+        "sessionId": "eFuG4WmQ4DSX",
+        "provider": 12,
+        "bookingBy": "online",
+        "bookingByType": "skyscanner_mob",
+        "bookingStatus": "TKTED",
+        "bookingRemarks": "META",
+        "totalAmount": "8514.0",
+        "pnrConfirmation": "G6G5YS",
+        "pnrConfirmationUapi": "null,null",
+        "sourceMedia": "skyscanner",
+        "productType": "Flight",
+        "isLocked": false,
+        "modifiedBy": null,
+        "supplier": "12",
+        "mailIssued": true,
+        "modifiedDate": 1658127865000,
+        "mobileNo": "9999008684",
+        "phoneNo": "9999008684",
+        "emailId": "Vmittal694@gmail.com",
+        "flexResult": null,
+        "nearResult": null,
+        "tripType": 2,
+        "cabinClass": 1,
+        "origin": "DEL",
+        "destination": "BOM",
+        "valCarrier": "UK",
+        "travelDate": 1658188800000,
+        "paxFirstName": "Varun",
+        "paxMiddleName": "",
+        "paxLastName": "Mittal",
+        "adult": 1,
+        "child": 0,
+        "infant": 0,
+        "infantWs": 0,
+        "userIp": "47.31.213.152",
+        "device": "mobile",
+        "browser": "MAC_OS_X_IPHONE-MOBILE_SAFARI-15.0",
+        "billingStatus": "NEW",
+        "ticketStatus": "NEW",
+        "tfnNo": "10000000000",
+        "refundAmount": null
+      },
+      "invoiceNum": "180365",
+      "currency": "INR",
+      "paymentgateway": [
+        {
+          "ids": "43807",
+          "bookingId": "180365",
+          "response": "{\"referer\":\"referer\",\"country\":\"\",\"x-forwarded-port\":\"x-forwarded-port\",\"discount\":\"0.00\",\"udf10\":\"\",\"meCode\":\"{\\\"pgMerchantId\\\":\\\"HDFC000000061461\\\",\\\"encKey\\\":\\\"8b684b56d4032e3fcd6567748e000b38603f081ae8ce86daf36020c27f23a44f0ac360bb53ac217126f79e08551c8c2c\\\",\\\"payu_aggregator\\\":\\\"1\\\",\\\"merchantVpa\\\":\\\"payumoney@hdfcbank\\\"}\",\"mode\":\"UPI\",\"host\":\"host\",\"error_Message\":\"No Error\",\"state\":\"\",\"payment_source\":\"payu\",\"bankcode\":\"UPI\",\"txnid\":\"180365\",\"accept-language\":\"accept-language\",\"cookie\":\"cookie\",\"net_amount_debit\":\"8514\",\"accept\":\"accept\",\"lastname\":\"\",\"zipcode\":\"\",\"x-amzn-trace-id\":\"x-amzn-trace-id\",\"phone\":\"9999008684\",\"productinfo\":\"E ticket\",\"hash\":\"9d0499be98e3001397858d624588ae5163774ca42457fe287ef6c00cecf4a801951d98f1ec16b9209db3d606768bc82a725c9090dc0fa0424182282f2c587e0c\",\"status\":\"success\",\"content-length\":\"content-length\",\"x-amzn-tls-version\":\"x-amzn-tls-version\",\"firstname\":\"Varun\",\"city\":\"\",\"origin\":\"origin\",\"error\":\"E000\",\"addedon\":\"2022-07-18 12:26:39\",\"x-amzn-tls-cipher-suite\":\"x-amzn-tls-cipher-suite\",\"udf9\":\"\",\"udf7\":\"\",\"udf8\":\"\",\"content-type\":\"content-type\",\"bank_ref_num\":\"219982025145\",\"key\":\"9A4ERJ\",\"email\":\"Vmittal694@gmail.com\",\"amount\":\"8514.00\",\"x-forwarded-proto\":\"x-forwarded-proto\",\"unmappedstatus\":\"captured\",\"address2\":\"\",\"address1\":\"\",\"udf5\":\"\",\"mihpayid\":\"15526653494\",\"udf6\":\"\",\"udf3\":\"\",\"udf4\":\"\",\"udf1\":\"\",\"udf2\":\"\",\"field1\":\"medhavicoutre-1@okhdfcbank\",\"field7\":\"APPROVED OR COMPLETED SUCCESSFULLY|00\",\"field6\":\"HDFC BANK LTD!50200043820781!HDFC0001442!919999008684\",\"field9\":\"SUCCESS|Completed Using Callback\",\"field8\":\"googlepay\",\"field3\":\"medhavicoutre-1@okhdfcbank\",\"field2\":\"53304210403\",\"accept-encoding\":\"accept-encoding\",\"field5\":\"HDF8F2AB42C967E44E0AE6DFB836D60F1E7\",\"PG_TYPE\":\"UPI-PG\",\"user-agent\":\"user-agent\",\"field4\":\"VARUN MITTAL\"}",
+          "resType": "payuupi",
+          "trackingId": "Bank RefNum219982025145Payment Sourcepayu",
+          "status": "Success",
+          "paymentMode": "UPI",
+          "cardName": null,
+          "amount": "8514.00",
+          "serviceCharge": "0.0"
+        }
+      ],
+      "tboInvoice": [],
+      "ancillary": [],
+      "BookingsNotes": [
+        {
+          "bookingId": 118914,
+          "remarks": "New Booking",
+          "modifiedBy": "System",
+          "modifiedDate": 1658127399000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "PNR  Number Not issued from API, Please check",
+          "modifiedBy": "API",
+          "modifiedDate": 1658127494000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "Return PNR  Number not issued from API, Please check",
+          "modifiedBy": "API",
+          "modifiedDate": 1658127494000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "tkt confirmed on automation by ravi",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127834000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "tkt confirmed on automation by ravi",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127836000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "tkt confirmed on automation by ravi",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127838000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "tkt confirmed on automation by ravi",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127852000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "tkt confirmed on automation by ravi",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127853000
+        },
+        {
+          "bookingId": 118914,
+          "remarks": "tkt confirmed on automation by ravi",
+          "modifiedBy": "Sumita",
+          "modifiedDate": 1658127864000
+        }
+      ],
+      "FareDetail": [
+        {
+          "fareDetailId": 191597,
+          "bookingId": 118914,
+          "adultFare": 7157.0,
+          "childFare": 0.0,
+          "infantFare": 0.0,
+          "infantWsFare": 0.0,
+          "adultTax": 1508.0,
+          "childTax": 0.0,
+          "infantTax": 0.0,
+          "infantWs": 0.0,
+          "adultMarkup": -561.0,
+          "childMarkup": 0.0,
+          "infantMarkup": 0.0,
+          "infantWsMarkup": 0.0,
+          "bagFees": 0.0,
+          "baseFare": 7157.0,
+          "totalTax": 947.0,
+          "agentMarkup": 410.0,
+          "markupId": 265,
+          "grandTotal": 8514.0,
+          "couponsCode": null,
+          "couponAmount": 0.0,
+          "otherMarkupID": null,
+          "serviceCharge": 0.0
+        },
+        {
+          "fareDetailId": 191598,
+          "bookingId": 118914,
+          "adultFare": 4098.0,
+          "childFare": 0.0,
+          "infantFare": 0.0,
+          "infantWsFare": 0.0,
+          "adultTax": 731.0,
+          "childTax": 0.0,
+          "infantTax": 0.0,
+          "infantWs": 0.0,
+          "adultMarkup": -355.0,
+          "childMarkup": 0.0,
+          "infantMarkup": 0.0,
+          "infantWsMarkup": 0.0,
+          "bagFees": 0.0,
+          "baseFare": 4098.0,
+          "totalTax": 376.0,
+          "agentMarkup": 410.0,
+          "markupId": 265,
+          "grandTotal": 4829.0,
+          "couponsCode": "",
+          "couponAmount": 0.0,
+          "otherMarkupID": null,
+          "serviceCharge": 0.0
+        },
+        {
+          "fareDetailId": 191599,
+          "bookingId": 118914,
+          "adultFare": 3059.0,
+          "childFare": 0.0,
+          "infantFare": 0.0,
+          "infantWsFare": 0.0,
+          "adultTax": 777.0,
+          "childTax": 0.0,
+          "infantTax": 0.0,
+          "infantWs": 0.0,
+          "adultMarkup": -206.0,
+          "childMarkup": 0.0,
+          "infantMarkup": 0.0,
+          "infantWsMarkup": 0.0,
+          "bagFees": 0.0,
+          "baseFare": 3059.0,
+          "totalTax": 571.0,
+          "agentMarkup": 410.0,
+          "markupId": 262,
+          "grandTotal": 3676.17,
+          "couponsCode": "",
+          "couponAmount": 0.0,
+          "otherMarkupID": null,
+          "serviceCharge": 0.0
+        }
+      ],
+      "TraveloesMail": [
+        {
+          "id": 178488,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 178529,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855332,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855351,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855353,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855354,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855357,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855358,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        },
+        {
+          "id": 855361,
+          "bookingId": "118914",
+          "sendStatus": "true"
+        }
+      ]
+    }
+  ],
+  "bookingId": 0,
+  "accountPayDetailRequest": null,
+  "companyRequest": null
+}
